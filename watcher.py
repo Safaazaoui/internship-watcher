@@ -10,7 +10,7 @@ Env:
 """
 import csv, html, json, os, re, ssl, sys, time, urllib.request
 from concurrent.futures import ThreadPoolExecutor
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
@@ -221,15 +221,17 @@ def push(topic, title, body, click=None, priority="default", tags="briefcase"):
 def write_digest(jobs):
     lines = [f"# Open internships matching your profile ({len(jobs)})", "",
              f"_Updated {datetime.now(timezone.utc):%Y-%m-%d} (UTC). US roles needing US citizenship, clearance or "
-             "\"no sponsorship\" are filtered out. Within each section: AI/ML/data roles first, then newest._", ""]
+             "\"no sponsorship\" are filtered out. Each section is sorted newest first; 🆕 = posted in the last 3 days._", ""]
+    recent = (datetime.now(timezone.utc) - timedelta(days=3)).strftime("%Y-%m-%d")
     for r in ("ca", "us_remote", "us"):
         group = [j for j in jobs if region(j) == r]
-        group.sort(key=lambda j: (-score(j), j["posted"] == "", "".join(chr(255 - ord(c)) for c in j["posted"])))
+        group.sort(key=lambda j: (j["posted"], score(j)), reverse=True)  # newest first; AI/ML breaks ties
         lines += [f"## {REGION_LABEL[r]} ({len(group)})", "",
                   "| Posted | Company | Role | Location | Term |", "|---|---|---|---|---|"]
         for j in group:
             loc = j["location"].replace("|", "/")[:60]
-            lines.append(f"| {j['posted'] or '–'} | {j['company']} | [{j['title']}]({j['url']}) | {loc} | {j['terms']} |")
+            new_tag = " 🆕" if j["posted"] >= recent else ""
+            lines.append(f"| {j['posted'] or '–'}{new_tag} | {j['company']} | [{j['title']}]({j['url']}) | {loc} | {j['terms']} |")
         lines.append("")
     DIGEST_FILE.write_text("\n".join(lines))
 
