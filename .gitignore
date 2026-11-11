@@ -1,3 +1,5 @@
 .ntfy_topic
 __pycache__/
 .DS_Store
+sweep_reports/
+sweep_seen.txt
