@@ -1,0 +1,6 @@
+{
+  "_comment": "Company job boards polled directly (fastest source: postings show up here before aggregators). Add more with the slug from the company's careers URL: boards.greenhouse.io/<slug>, jobs.ashbyhq.com/<slug>, jobs.lever.co/<slug>.",
+  "greenhouse": ["faire", "geotab", "hootsuite", "dropbox", "databricks", "stripe", "figma"],
+  "ashby": ["cohere", "wealthsimple", "1password", "koho", "openai", "notion", "ramp"],
+  "lever": ["wealthsimple", "benchsci"]
+}

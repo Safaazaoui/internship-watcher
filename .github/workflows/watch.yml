@@ -1,0 +1,34 @@
+name: internship-watch
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"   # GitHub may delay scheduled runs by a few minutes at busy times
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: watch
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Check for new internships
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: python watcher.py
+      - name: Save state
+        run: |
+          git config user.name "intern-watcher"
+          git config user.email "actions@users.noreply.github.com"
+          git add seen.json jobs_log.csv 2>/dev/null || git add seen.json
+          git diff --cached --quiet || git commit -m "update seen postings" -q
+          git push -q
