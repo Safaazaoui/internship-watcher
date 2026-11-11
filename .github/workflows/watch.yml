@@ -29,6 +29,6 @@ jobs:
         run: |
           git config user.name "intern-watcher"
           git config user.email "actions@users.noreply.github.com"
-          git add seen.json jobs_log.csv 2>/dev/null || git add seen.json
+          git add seen.json open_now.md; [ -f jobs_log.csv ] && git add jobs_log.csv
           git diff --cached --quiet || git commit -m "update seen postings" -q
           git push -q
