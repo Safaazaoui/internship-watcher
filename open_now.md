@@ -1,4 +1,4 @@
-# Open internships matching your profile (1931)
+# Open internships matching your profile (1920)
 
 _Updated 2026-11-14 (UTC). US roles needing US citizenship, clearance or "no sponsorship" are filtered out. Each section is sorted newest first; 🆕 = posted in the last 3 days._
 
@@ -324,7 +324,7 @@ _Updated 2026-11-14 (UTC). US roles needing US citizenship, clearance or "no spo
 | 2026-09-15 | Elire | [AI Data Science Consulting Intern - Knowledge Graphs & Enterprise Data](https://jobs.jobvite.com/elire/job/oppLAfwT?nl=1&nl=1&fr=false) | Remote in USA; Minneapolis, MN | Summer 2027 |
 | 2026-08-14 | Notion | [Software Engineer Intern (Summer 2027)](https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c) | San Francisco, California; New York, New York; Remote |  |
 
-## 🇺🇸 US on-site (1619)
+## 🇺🇸 US on-site (1608)
 
 | Posted | Company | Role | Location | Term |
 |---|---|---|---|---|
@@ -530,9 +530,7 @@ _Updated 2026-11-14 (UTC). US roles needing US citizenship, clearance or "no spo
 | 2026-11-06 | United Parcel Service | [Summer Engineer Intern](https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---MIDDLEBURG-HEIGHTS-OHMID/XMLNAME-2027-Summer-Engineering-Intern---Cleveland-OH_R26039950) | Middleburg Heights, OH | Summer 2027 |
 | 2026-11-06 | Corning | [Image Analysis Intern](https://corningjobs.corning.com/job/Corning-Intern,-Image-Analysis-Summer-2027-NY-14831/1448762800/?ats=successfactors) | Corning, NY | Summer 2027 |
 | 2026-11-06 | Invesco | [Data Science Intern - Real Estate](https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Dallas-Texas/Early-Career-Intern---Real-Estate--Data-Science-_R-15091) | Dallas, TX | Summer 2027 |
-| 2026-11-06 | L.L.Bean | [Business Analyst/Data Analyst Intern](https://llbean.wd1.myworkdayjobs.com/llbean_careers/job/Freeport-ME/Business--Data-Analyst-Intern--Summer-2027-_JR11275) | Freeport, ME | Summer 2027 |
 | 2026-11-06 | Meta | [Research Scientist Intern - Synthetic Data for Computer Use Agents](https://www.metacareers.com/jobs/1667187061776108) | Menlo Park, CA |  |
-| 2026-11-06 | L.L.Bean | [Software Developer Intern](https://llbean.wd1.myworkdayjobs.com/llbean_careers/job/Freeport-ME/Software-Developer-Intern--Summer-2027-_JR11274-1) | Freeport, ME | Summer 2027 |
 | 2026-11-06 | Invesco | [Data Science Intern - Real Estate](https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Dallas-Texas/Early-Career-Intern---Real-Estate--Data-Science-_R-15091-1) | Dallas, TX | Summer 2027 |
 | 2026-11-06 | Meta | [Research Scientist Intern - Robotics Foundation Models - Agentic RL](https://www.metacareers.com/jobs/1414987577372371) | Menlo Park, CA |  |
 | 2026-11-06 | Republic Finance | [React Developer Intern](https://jobs.republicfinance.com/jobs/15411?icims=1&lang=en-us) | Plano, TX |  |
@@ -787,7 +785,6 @@ _Updated 2026-11-14 (UTC). US roles needing US citizenship, clearance or "no spo
 | 2026-10-27 | Hive Financial Systems | [Analytics Intern](https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5277475007) | Atlanta, GA | Summer 2027 |
 | 2026-10-27 | CSAA Insurance Group | [Data Science Intern](https://aaaie.wd1.myworkdayjobs.com/CSAACareers2/job/Arizona---Home-Teleworkers/Data-Science-Intern_R8002) | Phoenix, AZ | Summer 2027 |
 | 2026-10-27 | Micron Technology | [Product Yield Enhancement Software Engineer Intern](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Product-Yield-Software-Engineer_JR115864) | Boise, ID |  |
-| 2026-10-27 | Micron Technology | [HBM Data Scientist Intern](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---HBM-Data-Scientist_JR115127) | Richardson, TX |  |
 | 2026-10-27 | Commonwealth Fusion Systems | [Plasma Physics Intern](https://jobs.lever.co/cfsenergy/32987ab7-59ed-4364-a012-91cbece8877a/apply) | Devens, MA | Summer 2027 |
 | 2026-10-27 | Amazon | [Database Engineer Intern](https://amazon.jobs/en/jobs/10590290/database-engineer-intern-summer-2027) | Seattle, WA; East Palo Alto, CA | Summer 2027 |
 | 2026-10-27 | 42dot | [Foundation Models Intern](https://jobs.ashbyhq.com/42dot/da2487a2-afa1-464e-9f08-bf448e2b2f3b/application?embed=true) | SF; Sunnyvale, CA |  |
@@ -827,7 +824,6 @@ _Updated 2026-11-14 (UTC). US roles needing US citizenship, clearance or "no spo
 | 2026-10-26 | Skydio | [Autonomy Engineer Intern - Simulation & Robotics](https://jobs.ashbyhq.com/skydio/6f5caf41-fa1d-4208-9bdc-82c72e5d3f17/application?embed=true) | San Mateo, CA | Summer 2027 |
 | 2026-10-26 | Skydio | [Autonomy Engineer Intern - Reinforcement Learning](https://jobs.ashbyhq.com/skydio/19352f5e-c30d-4184-a070-3c25b0ebc048/application?embed=true) | San Mateo, CA |  |
 | 2026-10-26 | Highmark Health | [Enterprise Master Data Management Analyst Graduate Intern](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Enterprise-Master-Data-Management-Analyst-Graduate-Intern_J289856) | New Mexico; Washington; Kansas; Pennsylvania; North Dakota;  | Summer 2027 |
-| 2026-10-26 | Qube Research & Technologies | [Technology Intern](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8870423002) | Chicago, IL; NYC | Summer 2027 |
 | 2026-10-26 | Burns Engineering | [Software Engineer Intern](https://www.burns-group.com/careers/current-openings/?gh_jid=4467848009) | Pittsburgh, PA | Summer 2027 |
 | 2026-10-25 | Skydio | [Autonomy Engineer Intern - Deep Learning / Computer Vision](https://jobs.ashbyhq.com/skydio/f1a72f5b-6157-47c1-8de9-379a32c7419f/application?embed=true) | San Mateo, CA | Summer 2027 |
 | 2026-10-25 | Hewlett Packard Enterprise | [AI/ML Developer Intern](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/San-Jose-California/AI-ML-Developer-Intern_1217413) | San Jose, CA |  |
@@ -930,7 +926,6 @@ _Updated 2026-11-14 (UTC). US roles needing US citizenship, clearance or "no spo
 | 2026-10-21 | Docusign | [Software Engineer Intern](https://careers.docusign.com/jobs/30488?icims=1) | Seattle, WA |  |
 | 2026-10-21 | Docusign | [Software Engineer Intern](https://careers.docusign.com/jobs/30496?icims=1) | Seattle, WA |  |
 | 2026-10-21 | Minerals Technologies | [Geographic Information Science Intern](https://careers-mineralstech.icims.com/jobs/4903/job?mobile=true&needsRedirect=false) | Belle Fourche, SD |  |
-| 2026-10-20 | Constellation Brands | [AI Enablement Intern](https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--AI-Enablement_R-41526) | Rochester, NY |  |
 | 2026-10-20 | Graphcore | [Software Engineer Intern - AI Compute Libraries & Performance](https://job-boards.greenhouse.io/graphcore/jobs/8894868002) | Bristol, UK | Summer 2027 |
 | 2026-10-20 | Meta | [Research Intern - Self-Improving Agentic Systems and AI Research Agents](https://www.metacareers.com/jobs/994737396214791) | London, UK |  |
 | 2026-10-20 | Meta | [Research Scientist Intern - Multimodal Behavioral AI](https://www.metacareers.com/jobs/1428978125312655) | Redmond, WA |  |
@@ -951,7 +946,6 @@ _Updated 2026-11-14 (UTC). US roles needing US citizenship, clearance or "no spo
 | 2026-10-20 | Leonardo | [Analytics Engineer Industrial Placement Intern](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---London---Whitehall/Industrial-Placement-Analytics-Engineer_R0033595) | London, UK |  |
 | 2026-10-20 | Texas Instruments | [Software Engineer Intern - Compiler](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019103) | Sugar Land, TX; United States |  |
 | 2026-10-20 | Graphcore | [Software Engineer Intern - Drivers and Utilities](https://job-boards.greenhouse.io/graphcore/jobs/8894376002) | Bristol, UK | Summer 2027 |
-| 2026-10-20 | Ryan | [Application Engineering Intern](https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Plano/Summer-2027-Intern--Application-Engineering_R0020808-1) | Plano, TX | Summer 2027 |
 | 2026-10-20 | Highmark Health | [Evaluation Analytics Graduate Intern](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Evaluation-Analytics-Graduate-Intern_J288013) | New Mexico; Washington; Kansas; Pennsylvania; North Dakota;  | Summer 2027 |
 | 2026-10-20 | Skydio | [Mobile Software Engineer Intern](https://jobs.ashbyhq.com/skydio/8a237302-3fe8-4403-b32b-7690f333ba52/application?embed=true) | San Mateo, CA | Summer 2027 |
 | 2026-10-20 | Analog Devices | [Software Tools Engineer Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Edinburgh-SC-Freer/Software-Tools-Engineering-Intern_R267128) | Edinburgh, UK |  |
@@ -1015,7 +1009,6 @@ _Updated 2026-11-14 (UTC). US roles needing US citizenship, clearance or "no spo
 | 2026-10-16 | Pattern | [Operations Intern](https://jobs.lever.co/pattern/13695e3e-92b7-40f7-8805-ea39b9c324e7/apply) | Lehi, UT |  |
 | 2026-10-16 | Impulse Space | [Enterprise Software Engineer Intern](https://impulsespace.pinpointhq.com/en/postings/66981a77-8e79-4050-9818-4ed4209c5579?ats=pinpointhq) | Redondo Beach, CA | Summer 2027 |
 | 2026-10-16 | Veeam Software | [Data & Analytics Engineering Intern](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4996533101) | Alpharetta, GA | Summer 2027 |
-| 2026-10-16 | Ryan | [Application Development Intern](https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Plano/Summer-2027-Intern--Application-Development_R0020820) | Plano, TX | Summer 2027 |
 | 2026-10-16 | Ryan | [Software Development Intern](https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Plano/Summer-2027-Intern--Software-Development_R0020822) | Plano, TX | Summer 2027 |
 | 2026-10-16 | Meta | [Research Scientist Intern - Multimodal Behavioral Modeling - Hearing Science](https://www.metacareers.com/jobs/1141752241867684) | Redmond, WA |  |
 | 2026-10-16 | AgZen | [Software Engineer Co-op](https://jobs.ashbyhq.com/agzen/4cff4edd-3e9a-4ea1-8138-80c7241a2d3a/application?embed=true) | Somerville, MA | Winter 2027 |
@@ -1026,7 +1019,6 @@ _Updated 2026-11-14 (UTC). US roles needing US citizenship, clearance or "no spo
 | 2026-10-16 | Barclays | [Client Data and Engineering Group Internship](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Client-Data-and-Engineering-Group-Summer-Internship-Programme-2027-London_JR-0000135782) | London, UK | Summer 2027 |
 | 2026-10-16 | Ryan | [Application Development Intern](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Summer-2027-Intern--Application-Development_R0020820-1) | Plano, TX | Summer 2027 |
 | 2026-10-16 | Ryan | [Software Engineer Intern](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Summer-2027-Intern--Software-Engineering_R0020843-1) | Plano, TX | Summer 2027 |
-| 2026-10-16 | Ryan | [Software Engineer Intern](https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Plano/Summer-2027-Intern--Software-Engineering_R0020843) | Plano, TX | Summer 2027 |
 | 2026-10-16 | AiDash | [Software Engineer Intern - Backend](https://job-boards.greenhouse.io/aidashinc/jobs/4436057009) | Palo Alto, CA |  |
 | 2026-10-16 | 84 Lumber | [Business Intelligence Intern - Business Intelligence](https://careers.84lumber.com/jobs/26178?icims=1) | Eighty Four, PA |  |
 | 2026-10-15 | National Laboratory of the Rockies | [AI/ML for Cybersecurity Intern](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--10-12-weeks--Intern---AI-ML-for-Cybersecurity_R14563) | Golden, CO |  |
@@ -1170,7 +1162,6 @@ _Updated 2026-11-14 (UTC). US roles needing US citizenship, clearance or "no spo
 | 2026-10-07 | HCSC | [Enterprise Data Analyst Intern](https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Enterprise-Data-Analyst-Intern_R0059505) | Chicago, IL; Richardson, TX |  |
 | 2026-10-07 | Illinois Tool Works | [Software Engineer Intern - Application Software](https://careers.itw.com/global/en/job/JR10491) | Eden Prairie, MN | Summer 2027 |
 | 2026-10-07 | Bose | [Data Analytics Engineer Co-op](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Data-Analytics-Engineer-Co-op_R29271) | Bloomfield Hills, MI; Framingham, MA; Atlanta, GA | Winter 2027 |
-| 2026-10-07 | ICF International | [Data Analytics Intern](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Analytics--Reston--VA-or-Remote-_R2603382-1) | Reston, VA | Summer 2027 |
 | 2026-10-07 | Nissan Global | [Systems Engineer Intern - Summer 2027](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Canton-Mississippi---United-States-of-America/Systems-Engineer-Intern---Summer-2027---Canton--MS_R00214882) | Canton, MS | Summer 2027 |
 | 2026-10-07 | DocuSign | [Software Engineer Intern](https://careers.docusign.com/jobs/30481?icims=1) | Seattle, WA |  |
 | 2026-10-07 | DocuSign | [Software Engineer Intern](https://careers.docusign.com/jobs/30484?icims=1) | Seattle, WA |  |
@@ -1454,13 +1445,11 @@ _Updated 2026-11-14 (UTC). US roles needing US citizenship, clearance or "no spo
 | 2026-09-15 | Vestmark | [Software Engineer Co-op](https://job-boards.greenhouse.io/internrecruiting/jobs/8204511) | Boston, MA | Spring 2027 |
 | 2026-09-15 | SimVentions | [Software Development Intern](https://careers-simventions.icims.com/jobs/1631/job?mobile=true&needsRedirect=false) | Fredericksburg, VA | Summer 2027 |
 | 2026-09-14 | Guardian Life | [Data Engineering Intern - Digital & Technology](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---Data-Engineering_R000110202) | Holmdel, NJ; NYC; Bethlehem, PA | Summer 2027 |
-| 2026-09-14 | Guardian Life | [Summer Intern - Digital & Technology - AI & Machine Learning](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---AI---Machine-Learning_R000110205) | Holmdel, NJ; NYC; Bethlehem, PA | Summer 2027 |
 | 2026-09-14 | MBDA | [Computer Vision and Artificial Intelligence Engineer - Image Processing UK](https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Bristol/Computer-Vision-and-Artificial-Intelligence-Engineer---Summer-Placement-2027_R37483) | Bristol, UK |  |
 | 2026-09-14 | Intuit | [AI Scientist Intern](https://jobs.intuit.com/job/mountain-view/summer-2027-ai-science-intern/27595/100620927536) | NYC; Mountain View, CA; Atlanta, GA; San Diego, CA | Summer 2027 |
 | 2026-09-14 | Ernst & Young | [Data Engineer Intern - Multiple Teams](https://eyglobal.yello.co/jobs/nuM1c7MBNjknCC8oSMvZMg?job_board_id=c1riT--B2O-KySgYWsZO1Q) | Chicago, IL; NYC | Summer 2027 |
 | 2026-09-14 | ibotta | [Data Engineer Intern](https://jobs.ashbyhq.com/ibotta/666cac72-9e06-46ee-aea0-576f766338b2/application?embed=true) | Denver, CO | Summer 2027 |
 | 2026-09-14 | Dell Technologies | [AI Solutions Intern - Product & Content Management](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/299057) | Round Rock, TX |  |
-| 2026-09-14 | Guardian Life | [Application Development Intern - Digital & Technology](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---Application-Development_R000110209) | Holmdel, NJ; NYC; Bethlehem, PA | Summer 2027 |
 | 2026-09-14 | Scale AI | [Software Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/scaleai/jobs/4730846005) | London, UK | Summer 2027 |
 | 2026-09-14 | Emerson Electric | [Software Engineer Co-op](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010048) | Eden Prairie, MN | Winter 2027, Summer 2027 |
 | 2026-09-14 | Constellation Energy | [PMO/Data Analyst Intern](https://jobs.constellationenergy.com/jobs/138735?icims=1) | Chicago, IL | Summer 2027 |
