@@ -1,4 +1,4 @@
-# Open internships matching your profile (1918)
+# Open internships matching your profile (1916)
 
 _Updated 2026-11-15 (UTC). US roles needing US citizenship, clearance or "no sponsorship" are filtered out. Each section is sorted newest first; 🆕 = posted in the last 3 days._
 
@@ -324,7 +324,7 @@ _Updated 2026-11-15 (UTC). US roles needing US citizenship, clearance or "no spo
 | 2026-09-15 | Elire | [AI Data Science Consulting Intern - Knowledge Graphs & Enterprise Data](https://jobs.jobvite.com/elire/job/oppLAfwT?nl=1&nl=1&fr=false) | Remote in USA; Minneapolis, MN | Summer 2027 |
 | 2026-08-14 | Notion | [Software Engineer Intern (Summer 2027)](https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c) | San Francisco, California; New York, New York; Remote |  |
 
-## 🇺🇸 US on-site (1606)
+## 🇺🇸 US on-site (1604)
 
 | Posted | Company | Role | Location | Term |
 |---|---|---|---|---|
@@ -1365,6 +1365,7 @@ _Updated 2026-11-15 (UTC). US roles needing US citizenship, clearance or "no spo
 | 2026-09-21 | Symbotic | [Software Engineer](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Software-Engineer_R7963) | Wilmington, MA |  |
 | 2026-09-21 | Symbotic | [Bot Controls Intern](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Bot-Controls_R7965) | Wilmington, MA |  |
 | 2026-09-21 | GE Aerospace | [Data Science Co-op - Flight Analytics Platform](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Austin/SaaS---Flight-Analytics-Platform---Data-Science-Co-op---Spring-2027_R5040450-2) | Austin, TX | Spring 2027 |
+| 2026-09-21 | Tyler Technologies | [Software Development Intern - Summer 2027](https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false) | Yarmouth, ME; Orono, ME; Falmouth, ME | Summer 2027 |
 | 2026-09-21 | Macy's | [Summer Internship - Technology](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/92293) | Johns Creek, GA | Summer 2027 |
 | 2026-09-21 | The Marzetti Company | [IT Analytics Intern](https://careers.marzetticompany.com/jobs/8067?icims=1&lang=en-us) | Columbus, OH | Summer 2027 |
 | 2026-09-21 | Windstar Cruises | [Revenue & Data Analytics Intern](https://www.xanterrajobs.com/jobs/39609?icims=1&lang=en-us) | Doral, FL |  |
@@ -1765,9 +1766,6 @@ _Updated 2026-11-15 (UTC). US roles needing US citizenship, clearance or "no spo
 | 2026-08-17 | Illinois Tool Works | [Software Engineer Intern](https://itw.wd5.myworkdayjobs.com/external/job/Appleton-822-Comm/Software-Engineering-Intern---PWS_JR9516) | Appleton, WI |  |
 | 2026-08-15 | ByteDance | [Software Engineer Intern - Global Payment Infra and SRE](https://jobs.bytedance.com/en/position/7668315137242351925/detail) | San Jose, CA | Summer 2027 |
 | 2026-08-15 | ByteDance | [Software Engineer Intern - Global Traffic Architecture](https://jobs.bytedance.com/en/position/7672557061679483189/detail) | San Jose, CA | Summer 2027 |
-| 2026-08-15 | Goldman Sachs | [Summer Analyst Intern - Americas - Engineering](https://higher.gs.com/roles/171565?type=students) | Salt Lake City, UT | Summer 2027 |
-| 2026-08-15 | Goldman Sachs | [Summer Analyst Intern - Engineering](https://higher.gs.com/roles/170644?type=students) | London, UK | Summer 2027 |
-| 2026-08-15 | Goldman Sachs | [Summer Analyst Intern - Engineering](https://higher.gs.com/roles/171553?type=students) | Dallas, TX | Summer 2027 |
 | 2026-08-14 | The Nuclear Company | [AI Applied Research Intern](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391888008) | Washington, DC | Spring 2027 |
 | 2026-08-14 | Vertiv | [Planning Analytics Intern - Summer 2027](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279236) | Westerville, OH | Summer 2027 |
 | 2026-08-13 | ByteDance | [Student Researcher - AI Foundation Model Infrastructure - Seed](https://jobs.bytedance.com/en/position/7673274910202988805/detail) | San Jose, CA |  |
