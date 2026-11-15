@@ -1,8 +1,8 @@
-# Open internships matching your profile (1919)
+# Open internships matching your profile (1915)
 
 _Updated 2026-11-15 (UTC). US roles needing US citizenship, clearance or "no sponsorship" are filtered out. Each section is sorted newest first; 🆕 = posted in the last 3 days._
 
-## 🇨🇦 Canada (261)
+## 🇨🇦 Canada (258)
 
 | Posted | Company | Role | Location | Term |
 |---|---|---|---|---|
@@ -46,8 +46,6 @@ _Updated 2026-11-15 (UTC). US roles needing US citizenship, clearance or "no spo
 | 2026-11-03 | Seaspan | [Logistics Support Analysis Intern](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9160) | North Vancouver, BC, Canada | Winter 2027 |
 | 2026-11-03 | Global Relay | [Java Developer Co-op](https://www.globalrelay.com/careers/jobs?gh_jid=6241593004) | Vancouver, BC, Canada | Winter 2027 |
 | 2026-11-03 | Global Relay | [Java Developer Co-op](https://www.globalrelay.com/careers/jobs?gh_jid=6241594004) | Halifax Regional Municipality, NS, Canada | Winter 2027 |
-| 2026-11-02 | Bank of Montreal | [UX/UI Designer Co-op Intern](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/UX-UI-Designer--Winter-2027--Co-op-Internship---8-months_R260026951-1) | Toronto, ON, Canada | Winter 2027 |
-| 2026-11-02 | Bank of Montreal | [UX/UI Designer Co-op Intern](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/UX-UI-Designer--Winter-2027--Co-op-Internship---8-months_R260026951) | Toronto, ON, Canada | Winter 2027 |
 | 2026-11-02 | Zimmer Biomet Holdings | [Software Developer Co-op](https://careers.zimmerbiomet.com/us/en/job/13309) | Montreal, QC, Canada | Spring 2027 |
 | 2026-11-02 | Textron | [Information Technology Intern - Information Technology](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=345269) | Mirabel, QC, Canada | Winter 2027 |
 | 2026-11-02 | Meta | [Research Scientist Intern - FAIR - World Model Foundations](https://www.metacareers.com/jobs/1406585275871250) | Montreal, QC, Canada |  |
@@ -238,7 +236,6 @@ _Updated 2026-11-15 (UTC). US roles needing US citizenship, clearance or "no spo
 | 2026-08-21 | Huawei | [Researcher Co-op - Physical AI](https://huaweicanada.recruitee.com/o/co-op-researcher-physical-ai) | Markham, ON, Canada |  |
 | 2026-08-21 | Huawei | [Researcher Co-op - Large Language Models - Computer Vision](https://huaweicanada.recruitee.com/o/co-op-researcher-llms-computer-vision-1) | Markham, ON, Canada |  |
 | 2026-08-21 | Huawei | [Researcher Co-op - LLM - Computer Vision](https://huaweicanada.recruitee.com/o/co-op-researcher-llms-computer-vision) | Markham, ON, Canada |  |
-| 2026-08-19 | Bank of Montreal | [Workforce Analyst Co-op Intern](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Workforce-Analyst--Winter-2027--Co-op-Internship----8-Months_R260024513) | Toronto, ON, Canada | Winter 2027 |
 | 2026-08-19 | NVIDIA | [Software Engineering Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) | Canada; Santa Clara, CA | Summer 2027 |
 | 2026-08-05 | Huawei | [Engineer Co-op - Openjiuwen AI Agent Platform](https://huaweicanada.recruitee.com/o/co-op-engineer-openjiuwen-ai-agent-platform) | Markham, ON, Canada |  |
 | 2026-08-04 | Huawei | [Engineer Co-op - Intelligent Real-Time Operating System](https://huaweicanada.recruitee.com/o/co-op-engineer-intelligent-real-time-operating-system) | Ottawa, ON, Canada |  |
@@ -324,7 +321,7 @@ _Updated 2026-11-15 (UTC). US roles needing US citizenship, clearance or "no spo
 | 2026-09-15 | Elire | [AI Data Science Consulting Intern - Knowledge Graphs & Enterprise Data](https://jobs.jobvite.com/elire/job/oppLAfwT?nl=1&nl=1&fr=false) | Remote in USA; Minneapolis, MN | Summer 2027 |
 | 2026-08-14 | Notion | [Software Engineer Intern (Summer 2027)](https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c) | San Francisco, California; New York, New York; Remote |  |
 
-## 🇺🇸 US on-site (1607)
+## 🇺🇸 US on-site (1606)
 
 | Posted | Company | Role | Location | Term |
 |---|---|---|---|---|
@@ -561,9 +558,6 @@ _Updated 2026-11-15 (UTC). US roles needing US citizenship, clearance or "no spo
 | 2026-11-05 | PA Consulting | [Data and Decision Intelligence Apprentice](https://jobs.smartrecruiters.com/PAConsulting/744000159816244) | London, UK | Fall 2027 |
 | 2026-11-05 | Hearst | [Software Engineer Intern](https://job-boards.greenhouse.io/hearst/jobs/4466334009) | Carmel, IN |  |
 | 2026-11-05 | NRDC | [Knowledge Management Intern](https://careers-nrdc.icims.com/jobs/6066/job?mobile=true&needsRedirect=false) | Washington, DC | Summer 2027 |
-| 2026-11-05 | JM Family | [Software Engineer Intern](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105199) | Deerfield Beach, FL | Summer 2027 |
-| 2026-11-05 | JM Family | [Analytics Intern](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Analytics-Intern_JR105200) | Deerfield Beach, FL | Summer 2027 |
-| 2026-11-05 | JM Family | [Software Analyst Intern](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Analyst-Intern_JR105187) | Deerfield Beach, FL |  |
 | 2026-11-05 | The Federal Reserve System | [Knowledge and Information Management Intern](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship---Knowledge-and-Information-Management-Intern_R-0000033908) | Atlanta, GA | Summer 2027 |
 | 2026-11-05 | Cintas | [IT Intern – Engineer - Customer Channels](https://careers.cintas.com/job/Mason-IT-Intern-Engineer-Customer-Channels-OH-45040/1448146400/?ats=successfactors) | Mason, OH |  |
 | 2026-11-05 | Vizient | [Product Operations Internship - Metrics & Reporting](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Product-Operations-Metrics---Reporting_36053R-1) | Irving, TX | Summer 2027 |
@@ -1580,7 +1574,6 @@ _Updated 2026-11-15 (UTC). US roles needing US citizenship, clearance or "no spo
 | 2026-09-05 | Tesla | [Software Engineer Intern - Code Hardening & Framework Resilience - Robotaxi](https://www.tesla.com/careers/search/job/282598) | Palo Alto, CA | Spring 2027 |
 | 2026-09-05 | Powertown | [Forward Deployed Engineer Intern](https://jobs.ashbyhq.com/powertown/642bc3ac-1d1f-400a-975e-a80e745f277b/application?embed=true) | Boston, MA |  |
 | 2026-09-04 | Skydio | [Autonomy Engineer Intern - Computer Vision / Deep Learning - Summer 2027](https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9/application?embed=true) | San Mateo, CA | Summer 2027 |
-| 2026-09-04 | Kodiak Robotics | [Data Engineering Intern](https://job-boards.greenhouse.io/kodiak/jobs/4396622009) | Mountain View, CA | Winter 2027 |
 | 2026-09-04 | Amazon | [Software Development Engineer Intern - Robotics](https://amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027) | Seattle, WA; Nashville, TN; Austin, TX; North Reading, MA; A | Summer 2027, Spring 2027, Fall 2027 |
 | 2026-09-04 | Ernst & Young | [Data and Technology Intern - Multiple Teams](https://eyglobal.yello.co/jobs/gqy0pJfAkXrlECgDBjqcIw?job_board_id=c1riT--B2O-KySgYWsZO1Q) | Miami, FL; Dallas, TX; Chicago, IL; NYC | Summer 2027 |
 | 2026-09-04 | Ernst & Young | [Artificial Intelligence Intern - Tax - Tax Technology and Transformation](https://eyglobal.yello.co/jobs/LGUG7W08QqkVXWnuqFB0TA?job_board_id=c1riT--B2O-KySgYWsZO1Q) | Dallas, TX; NYC | Summer 2027 |
@@ -1769,6 +1762,9 @@ _Updated 2026-11-15 (UTC). US roles needing US citizenship, clearance or "no spo
 | 2026-08-17 | Illinois Tool Works | [Software Engineer Intern](https://itw.wd5.myworkdayjobs.com/external/job/Appleton-822-Comm/Software-Engineering-Intern---PWS_JR9516) | Appleton, WI |  |
 | 2026-08-15 | ByteDance | [Software Engineer Intern - Global Payment Infra and SRE](https://jobs.bytedance.com/en/position/7668315137242351925/detail) | San Jose, CA | Summer 2027 |
 | 2026-08-15 | ByteDance | [Software Engineer Intern - Global Traffic Architecture](https://jobs.bytedance.com/en/position/7672557061679483189/detail) | San Jose, CA | Summer 2027 |
+| 2026-08-15 | Goldman Sachs | [Summer Analyst Intern - Americas - Engineering](https://higher.gs.com/roles/171565?type=students) | Salt Lake City, UT | Summer 2027 |
+| 2026-08-15 | Goldman Sachs | [Summer Analyst Intern - Engineering](https://higher.gs.com/roles/170644?type=students) | London, UK | Summer 2027 |
+| 2026-08-15 | Goldman Sachs | [Summer Analyst Intern - Engineering](https://higher.gs.com/roles/171553?type=students) | Dallas, TX | Summer 2027 |
 | 2026-08-14 | The Nuclear Company | [AI Applied Research Intern](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391888008) | Washington, DC | Spring 2027 |
 | 2026-08-14 | Vertiv | [Planning Analytics Intern - Summer 2027](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279236) | Westerville, OH | Summer 2027 |
 | 2026-08-13 | ByteDance | [Student Researcher - AI Foundation Model Infrastructure - Seed](https://jobs.bytedance.com/en/position/7673274910202988805/detail) | San Jose, CA |  |
