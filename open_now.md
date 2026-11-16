@@ -1,8 +1,8 @@
-# Open internships posted in November 2026 (402)
+# Open internships posted in November 2026 (398)
 
 _Updated 2026-11-16 (UTC). Only roles posted this month are listed; the full history is in jobs_log.csv. US roles needing US citizenship, clearance or "no sponsorship" are filtered out. Each section is sorted newest first; 🆕 = posted in the last 3 days._
 
-## 🇨🇦 Canada (44)
+## 🇨🇦 Canada (41)
 
 | Posted | Company | Role | Location | Term |
 |---|---|---|---|---|
@@ -25,8 +25,6 @@ _Updated 2026-11-16 (UTC). Only roles posted this month are listed; the full his
 | 2026-11-09 | Altera | [Software Engineer Intern](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03414) | Toronto, ON, Canada |  |
 | 2026-11-06 | University of Ottawa | [Research Assistant Intern - Data Analysis](https://uottawa.wd3.myworkdayjobs.com/uOttawa_External_Career_Site/job/Ottawa-ON/CUPE---Winter2027---Data-Analysis_JR41185) | Ottawa, ON, Canada | Winter 2027 |
 | 2026-11-06 | DataRobot | [Software Design Engineer Intern](https://datarobot.wd1.myworkdayjobs.com/en-US/DataRobot_External_Careers/job/Boston-Massachusetts-US/Software-Design-Engineer-Intern_R-102764) | Boston, MA; Seattle, WA; SF; Ontario, Canada |  |
-| 2026-11-06 | PETRONAS Canada | [Student Intern - Technical Assurance and Pipeline Engineering](https://petronascanada.wd3.myworkdayjobs.com/PETRONASCanada/job/Calgary/Summer-Student--Technical-Assurance-and-Pipeline-Engineering_R0001879) | Calgary, AB, Canada | Summer 2027 |
-| 2026-11-06 | PETRONAS Canada | [Student Intern - Operation Advancement](https://petronascanada.wd3.myworkdayjobs.com/PETRONASCanada/job/Calgary/Summer-Student--Operation-Advancement_R0001881) | Calgary, AB, Canada | Summer 2027 |
 | 2026-11-05 | Qualcomm | [Machine Learning Engineering Intern](https://qualcomm.eightfold.ai/careers/job/446721969461) | Markham, ON, Canada | Summer 2027 |
 | 2026-11-05 | DataVisor | [Software Engineer Intern](https://apply.workable.com/datavisor-jobs/j/2FB6A93BF6/apply) | Remote in Canada | Winter 2027 |
 | 2026-11-05 | Element Fleet Management | [Forward Deployed Engineer Intern](https://elementfleet.wd3.myworkdayjobs.com/External_Career_Site/job/Toronto/Forward-Deployed-Engineer--FDE--Intern--8-12-month-intern-_R105989) | Toronto, ON, Canada |  |
@@ -37,7 +35,6 @@ _Updated 2026-11-16 (UTC). Only roles posted this month are listed; the full his
 | 2026-11-05 | Royal Bank of Canada | [Quantitative Technology Services Co-op - Software Developer](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/MONTRAL-Quebec-Canada/XMLNAME-2027-Winter-Capital-Markets-QTS--Software-Developer--Montreal---4-Months_R-0000184676-3) | Montreal, QC, Canada | Winter 2027 |
 | 2026-11-04 | Plusgrade | [Applied AI Engineer Intern](https://plusgrade.wd10.myworkdayjobs.com/Plusgrade_External_Site/job/CAN---Toronto/Applied-AI-Engineer-Intern_JR100233) | Toronto, ON, Canada |  |
 | 2026-11-04 | Plusgrade | [Data Science Intern](https://plusgrade.wd10.myworkdayjobs.com/Plusgrade_External_Site/job/CAN---Toronto/Data-Science-Intern_JR100230) | Toronto, ON, Canada |  |
-| 2026-11-03 | Royal Bank of Canada | [AI Engineer Co-op - Global Equities](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--AI-Engineer--16-Months--Co-op-_R-0000187401-2) | Toronto, ON, Canada | Summer 2027 |
 | 2026-11-03 | Huawei | [Researcher Computer Vision Intern](https://huaweicanada.recruitee.com/o/intern-researcher-computer-vision-3) | Markham, ON, Canada |  |
 | 2026-11-03 | Ciena | [Software Developer Co-op Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Quebec/Stagiaire-en-dveloppement-logiciel---Software-developer-Intern-Co-op_R032046) | Remote in Canada; Québec City, QC, Canada | Winter 2027 |
 | 2026-11-03 | Botpress Technologies | [Software Development Intern](https://apply.workable.com/botpress/j/16C68A50A7/apply) | Montreal, QC, Canada | Winter 2027 |
@@ -51,7 +48,7 @@ _Updated 2026-11-16 (UTC). Only roles posted this month are listed; the full his
 | 2026-11-02 | Qualcomm | [Deep Learning Research Intern](https://qualcomm.eightfold.ai/careers/job/446721913898) | Markham, ON, Canada | Summer 2027 |
 | 2026-11-02 | NVIDIA | [Math Libraries Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Math-Libraries-Intern--cuEST---Summer-2027_JR2028449) | Canada; Santa Clara, CA; United States | Summer 2027 |
 
-## 🇺🇸 US remote (26)
+## 🇺🇸 US remote (25)
 
 | Posted | Company | Role | Location | Term |
 |---|---|---|---|---|
@@ -71,7 +68,6 @@ _Updated 2026-11-16 (UTC). Only roles posted this month are listed; the full his
 | 2026-11-11 | Bask Health | [Software Engineer Intern](https://apply.workable.com/bask-health-1/j/E81C7F7D3B/apply) | Remote in USA |  |
 | 2026-11-11 | Bask Health | [Backend Engineer Intern - Backend Engineering](https://apply.workable.com/bask-health-1/j/98DB106D88/apply) | Remote in USA |  |
 | 2026-11-11 | Bask Health | [Product Engineering Intern](https://apply.workable.com/bask-health-1/j/1C108B16E2/apply) | Remote in USA |  |
-| 2026-11-11 | Vanderlande Industries | [Supply Chain Data & Analytics Intern](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Remote-United-States-of-America/Supply-Chain-Data---Analytics-Intern_JR38708) | Remote in USA; Marietta, GA |  |
 | 2026-11-10 | DwyerOmega | [Applied AI Intern](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4650662) | Remote in USA | Summer 2027 |
 | 2026-11-10 | DwyerOmega | [Applied AI Intern](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4647822) | Remote in USA | Spring 2027 |
 | 2026-11-09 | Tonic | [Forward Deployed Engineer Co-op - Data De-Identification](https://jobs.ashbyhq.com/tonicai/e632d472-fbd2-475a-9878-536c0eacb5e9/application?embed=true) | Remote in USA |  |
@@ -87,6 +83,7 @@ _Updated 2026-11-16 (UTC). Only roles posted this month are listed; the full his
 | Posted | Company | Role | Location | Term |
 |---|---|---|---|---|
 | 2026-11-16 🆕 | Pfizer | [Integrated Insights & Strategy Undergraduate Intern](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-Kingdom---Walton-Oaks/Integrated-Insights---Strategy-Undergraduate_4967524) | Tadworth, UK | Fall 2027 |
+| 2026-11-16 🆕 | Instil Software Ltd | [Software Engineer Placement Intern](https://jobs.ashbyhq.com/instil/b1be07e8-60de-432c-82ff-6ffb220ce563/application?embed=true) | Belfast, UK | Summer 2027 |
 | 2026-11-14 🆕 | SAS | [Software Developer Intern - Go/Golang Experience](https://careers-sas.icims.com/jobs/42797/job?mobile=true&needsRedirect=false) | Cary, NC | Summer 2027 |
 | 2026-11-13 🆕 | TikTok | [Machine Learning Engineer Intern](https://lifeattiktok.com/search/7698822572474583301) | San Jose, CA | Summer 2027 |
 | 2026-11-13 🆕 | Verisk | [Data Science/AI Intern](https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5184) | Lehi, UT | Summer 2027 |
@@ -158,7 +155,6 @@ _Updated 2026-11-16 (UTC). Only roles posted this month are listed; the full his
 | 2026-11-11 | Toyota Research Institute | [Future Product Innovation Research Intern - Human-AI Computational Design](https://jobs.lever.co/tri/ad346610-e4a6-4cd2-a357-11d731b136a2/apply) | Los Altos, CA |  |
 | 2026-11-11 | Microsoft | [AI Security Research Intern](https://apply.careers.microsoft.com/careers/job/1970393557070382) | Cambridge, UK |  |
 | 2026-11-11 | EXL | [Data and AI Intern](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/22509) | London, UK |  |
-| 2026-11-11 | Panera Bread | [Data Science & AI Analytics Intern](https://panerabread.wd5.myworkdayjobs.com/panera_careers/job/Newton-Support-Center/Data-Science---AI-Analytics---Summer-2027-Internship-Program_JR0049082) | Newton, MA | Summer 2027 |
 | 2026-11-11 | REGENT | [State Estimation Intern](https://jobs.ashbyhq.com/regent/8c76e568-34ce-49d0-ade8-fcc6bdf656cf/application?embed=true) | North Kingstown, RI |  |
 | 2026-11-11 | Apple | [CAD Virtuoso Engineer Intern](https://jobs.apple.com/en-us/details/200693133) | Swindon, UK |  |
 | 2026-11-11 | Rockwell Automation | [Software Developer/Engineering Intern](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mequon-Wisconsin-United-States/Intern--Software-Developer-Engineering_R26-8666-2) | Mequon, WI |  |
