@@ -1,18 +1,18 @@
-# Open internships posted in November 2026 (403)
+# Open internships posted in November 2026 (402)
 
 _Updated 2026-11-16 (UTC). Only roles posted this month are listed; the full history is in jobs_log.csv. US roles needing US citizenship, clearance or "no sponsorship" are filtered out. Each section is sorted newest first; 🆕 = posted in the last 3 days._
 
-## 🇨🇦 Canada (45)
+## 🇨🇦 Canada (44)
 
 | Posted | Company | Role | Location | Term |
 |---|---|---|---|---|
+| 2026-11-15 🆕 | IPEX | [Manufacturing Excellence Co-op](https://aliaxis.wd3.myworkdayjobs.com/IPEX/job/CA---Oakville-3---Office/Manufacturing-Excellence-Co-Op-Student--Winter-2027---Etudiant-Coop-excellence-manufacturire--Hiver-2027_R-58664-1) | Oakville, ON, Canada | Winter 2027 |
 | 2026-11-13 🆕 | Seaspan | [Data Engineering Intern](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9156) | North Vancouver, BC, Canada | Winter 2027 |
 | 2026-11-13 🆕 | Fonds de solidarité FTQ | [Business Intelligence and M365 Solutions Intern](https://fondsftq.wd10.myworkdayjobs.com/sitecarriere_externe/job/Fonds-de-solidarit-FTQ--Sige-social---Montral-Canada/Stagiaire-en-intelligence-d-affaires-et-solutions-M365_DP5874) | Montreal, QC, Canada |  |
 | 2026-11-13 🆕 | Canadian Tire | [Programmer Analyst Intern](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Mississauga-ON/Programmer-Analyst-Intern--12-months----Winter-2027_JR167748) | Mississauga, ON, Canada | Winter 2027 |
 | 2026-11-13 🆕 | W.W. Grainger | [Customer Experience Intern](https://jobs.grainger.com/Canada/job/THORNHILL-GCAN-Customer-Experience-Intern-ON-L3T-7W8/1450621700/?ats=successfactors) | Thornhill, Vaughan, ON, Canada | Summer 2027 |
 | 2026-11-13 🆕 | W.W. Grainger | [GCAN Field Operations Analyst Intern](https://jobs.grainger.com/Canada/job/THORNHILL-GCAN-Field-Operations-Analyst-Intern-ON-L3T-7W8/1450732300/?ats=successfactors) | Thornhill, Vaughan, ON, Canada | Summer 2027 |
 | 2026-11-13 🆕 | Ciena | [Technical Solution Engineer Intern - SE&I](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Technical-Solution-Engineer--Intern---SE-I_R032114) | Montreal, QC, Canada; Ottawa, ON, Canada | Winter 2027 |
-| 2026-11-12 | Bank of Montreal | [AI Developer Co-op Intern](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/AI-Developer--Winter-2027--Co-op-Internship----4-months_R260026323) | Toronto, ON, Canada | Winter 2027 |
 | 2026-11-12 | TMX Group | [AI Engineer Intern](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/AI-Engineering-Intern_R-6680) | Toronto, ON, Canada | Winter 2027 |
 | 2026-11-12 | Huawei | [Researcher Intern - Embodied AI](https://huaweicanada.recruitee.com/o/intern-researcher-embodied-ai-3) | Edmonton, AB, Canada |  |
 | 2026-11-12 | Capital Power | [Student Intern - Data Science](https://capitalpower.wd10.myworkdayjobs.com/External/job/Edmonton-AB/Summer-Student---Data-Science_JR807223-1) | Edmonton, AB, Canada | Summer 2027 |
@@ -23,7 +23,6 @@ _Updated 2026-11-16 (UTC). Only roles posted this month are listed; the full his
 | 2026-11-10 | Amgen | [Computer Engineering Co-op - Large Molecule Discovery - Technology](https://amgen.wd1.myworkdayjobs.com/careers/job/Canada---Burnaby/Undergraduate---Graduate-Co-op-Student---Software-Engineer---Large-Molecule-Discovery---Technology_R-260920) | Burnaby, BC, Canada | Winter 2027 |
 | 2026-11-09 | Kensington | [BI/Data Analyst Intern](https://job-boards.greenhouse.io/kensingtontours/jobs/5289223007) | Toronto, ON, Canada |  |
 | 2026-11-09 | Altera | [Software Engineer Intern](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03414) | Toronto, ON, Canada |  |
-| 2026-11-06 | OLG | [Analytics Engineering & Measurement Student Intern](https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Toronto-Ontario-Canada/Analytics-Engineering---Measurement-Student_R26_00700) | Toronto, ON, Canada; Sault Ste. Marie, ON, Canada | Winter 2027 |
 | 2026-11-06 | University of Ottawa | [Research Assistant Intern - Data Analysis](https://uottawa.wd3.myworkdayjobs.com/uOttawa_External_Career_Site/job/Ottawa-ON/CUPE---Winter2027---Data-Analysis_JR41185) | Ottawa, ON, Canada | Winter 2027 |
 | 2026-11-06 | DataRobot | [Software Design Engineer Intern](https://datarobot.wd1.myworkdayjobs.com/en-US/DataRobot_External_Careers/job/Boston-Massachusetts-US/Software-Design-Engineer-Intern_R-102764) | Boston, MA; Seattle, WA; SF; Ontario, Canada |  |
 | 2026-11-06 | PETRONAS Canada | [Student Intern - Technical Assurance and Pipeline Engineering](https://petronascanada.wd3.myworkdayjobs.com/PETRONASCanada/job/Calgary/Summer-Student--Technical-Assurance-and-Pipeline-Engineering_R0001879) | Calgary, AB, Canada | Summer 2027 |
@@ -87,6 +86,7 @@ _Updated 2026-11-16 (UTC). Only roles posted this month are listed; the full his
 
 | Posted | Company | Role | Location | Term |
 |---|---|---|---|---|
+| 2026-11-16 🆕 | Pfizer | [Integrated Insights & Strategy Undergraduate Intern](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-Kingdom---Walton-Oaks/Integrated-Insights---Strategy-Undergraduate_4967524) | Tadworth, UK | Fall 2027 |
 | 2026-11-14 🆕 | SAS | [Software Developer Intern - Go/Golang Experience](https://careers-sas.icims.com/jobs/42797/job?mobile=true&needsRedirect=false) | Cary, NC | Summer 2027 |
 | 2026-11-13 🆕 | TikTok | [Machine Learning Engineer Intern](https://lifeattiktok.com/search/7698822572474583301) | San Jose, CA | Summer 2027 |
 | 2026-11-13 🆕 | Verisk | [Data Science/AI Intern](https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5184) | Lehi, UT | Summer 2027 |
@@ -103,7 +103,6 @@ _Updated 2026-11-16 (UTC). Only roles posted this month are listed; the full his
 | 2026-11-13 🆕 | Vertex Pharmaceuticals | [Data Analytics Intern - OSD Process Data Analytics](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Summer-Intern-2027--OSD-Process-Data-Analytics_REQ-31312) | Boston, MA | Summer 2027 |
 | 2026-11-13 🆕 | ASML | [EUV Data Science and Analytics Intern](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Austin-TX-USA/Internship---EUV-Data-Science-and-Analytics_J-00357717) | Austin, TX |  |
 | 2026-11-13 🆕 | Piedmont Airlines | [Safety Data Analytics Intern](https://aaregional.wd503.myworkdayjobs.com/search/job/Charlotte-NC/Safety-Data-Analytics-Intern_R1014590) | Charlotte, NC |  |
-| 2026-11-13 🆕 | Manulife Financial | [Software Engineering Co-op Intern](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Boston-Massachusetts/Spring-Co-op-2027---Software-Engineering-Intern_JR26110405) | Boston, MA | Spring 2027 |
 | 2026-11-13 🆕 | StepStone Group | [Junior Analyst Intern - Client Services](https://boards.greenhouse.io/embed/job_app?token=8386648) | Cleveland, OH |  |
 | 2026-11-13 🆕 | Vertex Pharmaceuticals | [Data Analytics Intern - OSD Process Data Analytics](https://vrtx.wd501.myworkdayjobs.com/vertex_intern/job/Boston-MA/Summer-Intern-2027--OSD-Process-Data-Analytics_REQ-31312-2) | Boston, MA | Summer 2027 |
 | 2026-11-13 🆕 | Horizon3.ai | [Research Intern - Adversarial Intelligence](https://jobs.ashbyhq.com/horizon3ai/818f854b-f212-4817-8227-3b9e654d39a2/application?embed=true) | Chicago, IL; West Lafayette, IN | Summer 2027 |
