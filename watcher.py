@@ -219,9 +219,13 @@ def push(topic, title, body, click=None, priority="default", tags="briefcase"):
 
 
 def write_digest(jobs):
-    lines = [f"# Open internships matching your profile ({len(jobs)})", "",
-             f"_Updated {datetime.now(timezone.utc):%Y-%m-%d} (UTC). US roles needing US citizenship, clearance or "
-             "\"no sponsorship\" are filtered out. Each section is sorted newest first; 🆕 = posted in the last 3 days._", ""]
+    now = datetime.now(timezone.utc)
+    month_start = now.strftime("%Y-%m-01")
+    jobs = [j for j in jobs if j["posted"] and j["posted"] >= month_start]  # only postings from the current month
+    lines = [f"# Open internships posted in {now:%B %Y} ({len(jobs)})", "",
+             f"_Updated {now:%Y-%m-%d} (UTC). Only roles posted this month are listed; the full history is in jobs_log.csv. "
+             "US roles needing US citizenship, clearance or \"no sponsorship\" are filtered out. "
+             "Each section is sorted newest first; 🆕 = posted in the last 3 days._", ""]
     recent = (datetime.now(timezone.utc) - timedelta(days=3)).strftime("%Y-%m-%d")
     for r in ("ca", "us_remote", "us"):
         group = [j for j in jobs if region(j) == r]
