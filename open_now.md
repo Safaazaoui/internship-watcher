@@ -1,6 +1,6 @@
-# Open internships posted in November 2026 (416)
+# Open internships posted in November 2026 (426)
 
-_Updated 2026-11-17 (UTC). Only roles posted this month are listed; the full history is in jobs_log.csv. US roles needing US citizenship, clearance or "no sponsorship" are filtered out. Each section is sorted newest first; 🆕 = posted in the last 3 days._
+_Updated 2026-11-18 (UTC). Only roles posted this month are listed; the full history is in jobs_log.csv. US roles needing US citizenship, clearance or "no sponsorship" are filtered out. Each section is sorted newest first; 🆕 = posted in the last 3 days._
 
 ## 🇨🇦 Canada (49)
 
@@ -84,18 +84,19 @@ _Updated 2026-11-17 (UTC). Only roles posted this month are listed; the full his
 | 2026-11-04 | Vizient | [Pharmacy Aggregation Intern](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Pharmacy-Aggregation_35995R-1) | Washington, DC; Centennial, CO; Remote in USA; Edina, MN; Ch | Summer 2027 |
 | 2026-11-02 | Entrust | [AI Developer Intern](https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/AI-Developer-Intern_R004397) | Remote in Germany; Shakopee, MN |  |
 
-## 🇺🇸 US on-site (344)
+## 🇺🇸 US on-site (354)
 
 | Posted | Company | Role | Location | Term |
 |---|---|---|---|---|
+| 2026-11-18 🆕 | Smarty | [Data Acquisition & Quality Specialist Intern](https://ats.rippling.com/smarty/jobs/9bdebab0-e5e9-49d3-b995-cdaa62796be6) | Orem, UT | Winter 2027 |
 | 2026-11-17 🆕 | Robert Bosch Venture Capital | [AI Application Intern](https://jobs.smartrecruiters.com/BoschGroup/744000162076254) | Farmington Hills, MI | Winter 2027, Summer 2027 |
 | 2026-11-17 🆕 | Falcomm | [AI/ML Software Engineer Undergraduate Intern - AI/CAD Integration](https://apply.workable.com/falcomm/j/64D0E86EFE/apply) | Atlanta, GA | Spring 2027 |
 | 2026-11-17 🆕 | Falcomm | [AI/ML Software Engineer Graduate Intern - AI/CAD Integration](https://apply.workable.com/falcomm/j/41F139E6F7/apply) | Atlanta, GA | Spring 2027 |
 | 2026-11-17 🆕 | Exowatt | [Robotics & Physical AI Intern](https://jobs.lever.co/exowatt/ec23e694-6716-450d-bfbb-276ca8da3d1c/apply) | Miami, FL | Spring 2027 |
+| 2026-11-17 🆕 | Bissell | [AI & Automation Intern](https://careers.bissell.com/jobs/9995?icims=1&lang=en-us) | Grand Rapids, MI | Summer 2027 |
 | 2026-11-17 🆕 | HexArmor | [Software Engineer Intern](https://job-boards.greenhouse.io/hexarmor/jobs/8206200003) | Atlanta, GA |  |
 | 2026-11-17 🆕 | ECM Tek | [Developer Intern - Python Development](https://ecmtek.bamboohr.com/careers/51/) | Nashville, TN |  |
 | 2026-11-17 🆕 | IPConfigure | [Software Development for Video Surveillance Software Intern](https://ipconfigure.bamboohr.com/careers/71/) | Norfolk, VA |  |
-| 2026-11-17 🆕 | SecurityMetrics | [Software Engineer Intern](https://securitymetrics.bamboohr.com/careers/215/) | Orem, UT |  |
 | 2026-11-17 🆕 | SurePoint Ag Systems | [Drone Imaging Agronomy Intern](https://surepoint.bamboohr.com/careers/109/) | Manhattan, KS | Summer 2027 |
 | 2026-11-17 🆕 | Sedaro | [Compiler Intern - Simulator](https://sedarotech.bamboohr.com/careers/95/) | Arlington County, Arlington, VA |  |
 | 2026-11-17 🆕 | Sedaro | [Software Engineer Intern](https://sedarotech.bamboohr.com/careers/97/) | Arlington County, Arlington, VA |  |
@@ -107,6 +108,15 @@ _Updated 2026-11-17 (UTC). Only roles posted this month are listed; the full his
 | 2026-11-17 🆕 | Basis Research Institute | [Research Intern](https://jobs.ashbyhq.com/basis-research/efc50ca5-c190-4ef7-ab8a-6b7310b5dd0c/application?embed=true) | Cambridge, MA; NYC | Summer 2027 |
 | 2026-11-17 🆕 | Lean TECHniques | [Software Engineer Intern](https://jobs.ashbyhq.com/leantechniques/c89ba377-fab3-4246-a0cf-9d954cf4c862/application?embed=true) | Johnston, IA |  |
 | 2026-11-17 🆕 | Compunetix | [Software Engineer Co-op](https://jobs.jobvite.com/compunetix/job/oMdpAfwI?nl=1&nl=1&fr=false) | Monroeville, PA | Spring 2027 |
+| 2026-11-17 🆕 | Toyota Research Institute | [Robotics Intern - Agentic Robotics](https://jobs.lever.co/tri/7f676d3c-6a86-4b00-a9fd-c1009035fe49/apply) | Cambridge, MA |  |
+| 2026-11-17 🆕 | Havas | [Junior Google Analytics Platformer Intern](https://wd3.myworkdaysite.com/recruiting/havas/GroupExternalCareerSite/job/London/Google--Analytics--Enablement-Platformer_JR0101727) | London, UK |  |
+| 2026-11-17 🆕 | Paccar | [Data Scientist Intern](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Data-Scientist-TX-76205-7864/1458178433/?ats=successfactors) | Denton, TX | Summer 2027 |
+| 2026-11-17 🆕 | SRI International | [Software Engineering Co-op](https://careers-sri.icims.com/jobs/6540/job?mobile=true&needsRedirect=false) | Princeton, NJ |  |
+| 2026-11-17 🆕 | GEI Consultants | [Web Developer Intern](https://jobs.jobvite.com/gei-consultants/job/ogR5zfwv?nl=1&nl=1&fr=false) | Rancho Cordova, CA |  |
+| 2026-11-17 🆕 | Constellation Energy | [IT Software Developer Intern](https://jobs.constellationenergy.com/jobs/143150?icims=1&lang=en-us) | San Diego, CA | Summer 2027 |
+| 2026-11-17 🆕 | Blount Fine Foods | [Manufacturing Operations Analytics Intern](https://jobs.jobvite.com/blountfinefoods/job/oBf3Afwd?nl=1&nl=1&fr=false) | Fall River, MA |  |
+| 2026-11-17 🆕 | Sallie Mae | [Software Engineer Intern](https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Indianapolis-IN/Software-Engineer-Intern_R26_000633) | Indianapolis, IN | Summer 2027 |
+| 2026-11-17 🆕 | Sallie Mae | [Software Engineer Intern](https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Indianapolis-IN/Software-Engineering-Intern_R26_000623) | Indianapolis, IN | Summer 2027 |
 | 2026-11-16 🆕 | Boston Scientific | [AI Engineer Intern - Generative & Agentic AI](https://bostonscientific.eightfold.ai/careers/job/563602813827837) | Marlborough, MA; Maple Grove, MN; Arden Hills, MN | Summer 2027 |
 | 2026-11-16 🆕 | bioMérieux | [Machine Learning Co-op](https://jobs.jobvite.com/biofiredx/job/ol94AfwS?nl=1&nl=1&fr=false) | Durham, NC | Winter 2027 |
 | 2026-11-16 🆕 | NeuroSpark | [AI Inference & Training Framework Engineer Intern](https://ats.rippling.com/neurospark/jobs/349c061d-1b7b-4876-acf0-57f53c7263ea) | Santa Clara, CA |  |
@@ -127,7 +137,7 @@ _Updated 2026-11-17 (UTC). Only roles posted this month are listed; the full his
 | 2026-11-16 🆕 | Minitab | [Software Engineer Intern](https://job-boards.greenhouse.io/minitab/jobs/8200708003) | State College, PA |  |
 | 2026-11-16 🆕 | Forterra | [Software Engineer Intern](https://ats.rippling.com/forterra/jobs/988bc637-2b57-4e15-b594-b2bb4b545395) | Winter Park, FL; Durham, NC; East Palo Alto, CA; Clarksburg, |  |
 | 2026-11-16 🆕 | Noblis | [Environmental Analyst Intern](https://careers.noblis.org/jobs/28139?icims=1&lang=en-us) | United States | Spring 2027 |
-| 2026-11-14 🆕 | SAS | [Software Developer Intern - Go/Golang Experience](https://careers-sas.icims.com/jobs/42797/job?mobile=true&needsRedirect=false) | Cary, NC | Summer 2027 |
+| 2026-11-14 | SAS | [Software Developer Intern - Go/Golang Experience](https://careers-sas.icims.com/jobs/42797/job?mobile=true&needsRedirect=false) | Cary, NC | Summer 2027 |
 | 2026-11-13 | TikTok | [Machine Learning Engineer Intern](https://lifeattiktok.com/search/7698822572474583301) | San Jose, CA | Summer 2027 |
 | 2026-11-13 | Verisk | [Data Science/AI Intern](https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5184) | Lehi, UT | Summer 2027 |
 | 2026-11-13 | FieldPulse | [AI Intern](https://ats.rippling.com/fieldpulse/jobs/bfade8ef-2509-4042-b400-019fe3a84a7d) | Dallas, TX |  |
