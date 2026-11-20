@@ -1,12 +1,14 @@
-# Open internships posted in November 2026 (416)
+# Open internships posted in November 2026 (429)
 
-_Updated 2026-11-19 (UTC). Only roles posted this month are listed; the full history is in jobs_log.csv. US roles needing US citizenship, clearance or "no sponsorship" are filtered out. Each section is sorted newest first; 🆕 = posted in the last 3 days._
+_Updated 2026-11-20 (UTC). Only roles posted this month are listed; the full history is in jobs_log.csv. US roles needing US citizenship, clearance or "no sponsorship" are filtered out. Each section is sorted newest first; 🆕 = posted in the last 3 days._
 
-## 🇨🇦 Canada (50)
+## 🇨🇦 Canada (52)
 
 | Posted | Company | Role | Location | Term |
 |---|---|---|---|---|
+| 2026-11-19 🆕 | EUNA Solutions | [Associate AI-Enablement Developer Co-op](https://euna.bamboohr.com/careers/822/) | Oakville, ON, Canada | Winter 2027 |
 | 2026-11-19 🆕 | Workstream | [Full Stack Engineer Intern](https://job-boards.greenhouse.io/workstream/jobs/6265872004) | Vancouver, BC, Canada |  |
+| 2026-11-19 🆕 | Horizon Trading Solutions | [Java Developer Intern](https://job-boards.eu.greenhouse.io/horizontradingsolutions/jobs/5011266101) | Montreal, QC, Canada; Paris, France; Nantes, France; Rennes, |  |
 | 2026-11-18 🆕 | SSI | [Software Developer Co-op](https://ssicorporate.bamboohr.com/careers/101/) | Victoria, BC, Canada |  |
 | 2026-11-18 🆕 | Huawei | [Researcher Intern - Recursive Self-Improvement](https://huaweicanada.recruitee.com/o/intern-researcher-recursive-self-improvement-rsi) | Montreal, QC, Canada |  |
 | 2026-11-18 🆕 | Roblox | [Software Engineer Intern - Engine](https://careers.roblox.com/jobs/8386080?gh_jid=8386080) | Vancouver, BC, Canada | Summer 2027 |
@@ -19,10 +21,10 @@ _Updated 2026-11-19 (UTC). Only roles posted this month are listed; the full his
 | 2026-11-17 🆕 | Xradar | [Software Engineer Co-op](https://xradar.bamboohr.com/careers/203/) | Burnaby, BC, Canada | Winter 2027 |
 | 2026-11-17 🆕 | Critical Environment Technologies | [Computer Science Co-op](https://cetci.bamboohr.com/careers/92/) | Delta, BC, Canada |  |
 | 2026-11-17 🆕 | City of Campbell River | [Co-op Student - OMS Project - Capital Projects](https://jobs.smartrecruiters.com/CityOfCampbellRiver/744000162139733) | Campbell River, BC, Canada |  |
-| 2026-11-16 🆕 | Shopify | [Applied Machine Learning Engineer Intern](https://www.shopify.com/careers/applied-machine-learning-engineering-internships-summer-2027_1d6b9bb9-a132-4ad9-b33f-3e55d2cfc536) | Montreal, QC, Canada; Toronto, ON, Canada; Ottawa, ON, Canad | Summer 2027 |
-| 2026-11-16 🆕 | Zurich Insurance | [Data Analytics & AI Intern](https://www.careers.zurich.com/job/Toronto-Data-Analytics-&-AI-Intern-ON/1377641357/?ats=successfactors) | Toronto, ON, Canada |  |
-| 2026-11-16 🆕 | Shopify | [Software Engineer Intern](https://www.shopify.com/careers/can-software-engineering-internships-summer-2027_7ebb28da-0f4a-40ae-b41f-f5de60f3ca2a) | Montreal, QC, Canada; Toronto, ON, Canada; Ottawa, ON, Canad | Summer 2027 |
-| 2026-11-16 🆕 | Shopify | [Data Intern](https://www.shopify.com/careers/data-internships-summer-2027_33763bbb-341b-4d78-be50-4076570e5e95) | Montreal, QC, Canada; Toronto, ON, Canada; NYC; Ottawa, ON,  | Summer 2027 |
+| 2026-11-16 | Shopify | [Applied Machine Learning Engineer Intern](https://www.shopify.com/careers/applied-machine-learning-engineering-internships-summer-2027_1d6b9bb9-a132-4ad9-b33f-3e55d2cfc536) | Montreal, QC, Canada; Toronto, ON, Canada; Ottawa, ON, Canad | Summer 2027 |
+| 2026-11-16 | Zurich Insurance | [Data Analytics & AI Intern](https://www.careers.zurich.com/job/Toronto-Data-Analytics-&-AI-Intern-ON/1377641357/?ats=successfactors) | Toronto, ON, Canada |  |
+| 2026-11-16 | Shopify | [Software Engineer Intern](https://www.shopify.com/careers/can-software-engineering-internships-summer-2027_7ebb28da-0f4a-40ae-b41f-f5de60f3ca2a) | Montreal, QC, Canada; Toronto, ON, Canada; Ottawa, ON, Canad | Summer 2027 |
+| 2026-11-16 | Shopify | [Data Intern](https://www.shopify.com/careers/data-internships-summer-2027_33763bbb-341b-4d78-be50-4076570e5e95) | Montreal, QC, Canada; Toronto, ON, Canada; NYC; Ottawa, ON,  | Summer 2027 |
 | 2026-11-15 | IPEX | [Manufacturing Excellence Co-op](https://aliaxis.wd3.myworkdayjobs.com/IPEX/job/CA---Oakville-3---Office/Manufacturing-Excellence-Co-Op-Student--Winter-2027---Etudiant-Coop-excellence-manufacturire--Hiver-2027_R-58664-1) | Oakville, ON, Canada | Winter 2027 |
 | 2026-11-13 | Seaspan | [Data Engineering Intern](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9156) | North Vancouver, BC, Canada | Winter 2027 |
 | 2026-11-13 | Fonds de solidarité FTQ | [Business Intelligence and M365 Solutions Intern](https://fondsftq.wd10.myworkdayjobs.com/sitecarriere_externe/job/Fonds-de-solidarit-FTQ--Sige-social---Montral-Canada/Stagiaire-en-intelligence-d-affaires-et-solutions-M365_DP5874) | Montreal, QC, Canada |  |
@@ -85,13 +87,29 @@ _Updated 2026-11-19 (UTC). Only roles posted this month are listed; the full his
 | 2026-11-04 | Vizient | [Pharmacy Aggregation Intern](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Pharmacy-Aggregation_35995R-1) | Washington, DC; Centennial, CO; Remote in USA; Edina, MN; Ch | Summer 2027 |
 | 2026-11-02 | Entrust | [AI Developer Intern](https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/AI-Developer-Intern_R004397) | Remote in Germany; Shakopee, MN |  |
 
-## 🇺🇸 US on-site (343)
+## 🇺🇸 US on-site (354)
 
 | Posted | Company | Role | Location | Term |
 |---|---|---|---|---|
 | 2026-11-19 🆕 | Scout Space | [Computer Vision Engineer Intern - AI/ML](https://job-boards.greenhouse.io/scoutspace/jobs/5489231008) | Reston, VA |  |
+| 2026-11-19 🆕 | Meta | [Research Scientist Intern - AI Agents for Autonomous Laboratories](https://www.metacareers.com/jobs/29481973694788756) | Redmond, WA |  |
+| 2026-11-19 🆕 | Vertiv | [AI Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286620) | Westerville, OH; Fort Lauderdale, FL; Huntsville, AL | Summer 2027 |
+| 2026-11-19 🆕 | Vertiv | [AI Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286621) | Westerville, OH; Fort Lauderdale, FL; Huntsville, AL | Summer 2027 |
+| 2026-11-19 🆕 | Snowflake | [Software Engineer Intern - AI / ML](https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907/application?embed=true) | Menlo Park, CA; Bellevue, WA | Summer 2027 |
 | 2026-11-19 🆕 | Meta | [Research Scientist Intern - Physics-Grounded Multimodal Robot Learning](https://www.metacareers.com/jobs/994911809842621) | Redmond, WA |  |
 | 2026-11-19 🆕 | Space Dynamics Laboratory | [Software Engineering Assistant Intern](https://spacedynamicslaboratory.applytojob.com/apply/qi2jNoCwKX/Student-Software-Engineering-Assistant) | Logan, UT |  |
+| 2026-11-19 🆕 | Veolia | [Manufacturing Software Engineer Intern](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000162593839) | Boulder, CO |  |
+| 2026-11-19 🆕 | Ralliant | [Software Engineer Intern](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11153) | Beaverton, OR | Summer 2027 |
+| 2026-11-19 🆕 | Publicis Groupe | [Identity Analytics Intern](https://careers.publicisgroupe.com/jobs/182970?icims=1&lang=en-us) | Chicago, IL | Summer 2027 |
+| 2026-11-19 🆕 | Blue Cross Blue Shield of Michigan | [Object Oriented Programming Intern](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15160) | Detroit, MI | Summer 2027 |
+| 2026-11-19 🆕 | Deliveroo | [Software Engineer Intern](https://job-boards.greenhouse.io/deliveroo/jobs/8398982) | London, UK | Summer 2027 |
+| 2026-11-19 🆕 | Snowflake | [Software Engineer Intern - Core - Infrastructure & Security](https://jobs.ashbyhq.com/snowflake/e194759e-3a20-47c9-868d-f47179613897/application?embed=true) | Menlo Park, CA; Bellevue, WA | Summer 2027 |
+| 2026-11-19 🆕 | Snowflake | [Software Engineer Intern - Database Engineering](https://jobs.ashbyhq.com/snowflake/0223923d-4f0f-44e6-9649-0d1a9eda950d/application?embed=true) | Menlo Park, CA; Bellevue, WA | Summer 2027 |
+| 2026-11-19 🆕 | Publicis Groupe | [Identity Analytics Intern](https://publicisgroupe.jibeapply.com/jobs/182970?icims=1&lang=en-us) | Chicago, IL | Summer 2027 |
+| 2026-11-19 🆕 | Pivotal Software | [Autonomy Intern - Autonomy - Path Planning](https://jobs.lever.co/pivotal/092eb283-16ac-4f68-a6e9-b6a0a9564067/apply) | Palo Alto, CA | Summer 2027 |
+| 2026-11-19 🆕 | Uplinq | [Software Engineer Intern - ASU](https://ats.rippling.com/uplinq/jobs/db54b553-b172-4569-ac5f-933a5f8a8d8c) | Scottsdale, AZ | Winter 2027 |
+| 2026-11-19 🆕 | Amperity | [Software Development Engineer Intern](https://amperity.com/careers?gh_jid=8393990#openpositions) | Seattle, WA | Summer 2027 |
+| 2026-11-19 🆕 | Ford Motor Company | [Vehicle Access System Engineering Intern - Advanced EV](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74636) | Allen Park, MI |  |
 | 2026-11-18 🆕 | Smarty | [Data Acquisition & Quality Specialist Intern](https://ats.rippling.com/smarty/jobs/9bdebab0-e5e9-49d3-b995-cdaa62796be6) | Orem, UT | Winter 2027 |
 | 2026-11-18 🆕 | Medpace | [Informatics Intern](https://careers.medpace.com/jobs/13079?icims=1&lang=en-us) | London, UK | Summer 2027 |
 | 2026-11-18 🆕 | Trainline | [Engineer Intern](https://jobs.ashbyhq.com/trainline/b0174860-8a94-4bd3-a307-373eeab586dd/application?embed=true) | London, UK | Summer 2027 |
@@ -99,7 +117,6 @@ _Updated 2026-11-19 (UTC). Only roles posted this month are listed; the full his
 | 2026-11-18 🆕 | Sheetz | [Business Intelligence Analytics Intern](https://jobs.sheetz.com/jobs/86015?icims=1&lang=en-us) | Pittsburgh, PA | Summer 2027 |
 | 2026-11-18 🆕 | Truveta | [Software Engineer Intern](https://job-boards.greenhouse.io/truveta/jobs/6249810004) | Seattle, WA | Winter 2027 |
 | 2026-11-18 🆕 | HERE Technologies | [Data Science Intern](https://careers-here.icims.com/jobs/85068/job?mobile=true&needsRedirect=false) | Chicago, IL |  |
-| 2026-11-18 🆕 | Syngenta Group | [Data Science Intern](https://jobs.smartrecruiters.com/SyngentaGroup/744000162383708) | Greensboro, NC |  |
 | 2026-11-18 🆕 | HERE Technologies | [Software Engineer Intern](https://careers-here.icims.com/jobs/83731/job?mobile=true&needsRedirect=false) | Chicago, IL |  |
 | 2026-11-18 🆕 | Goldman Sachs | [Summer Analyst Intern - Multiple Teams](https://higher.gs.com/roles/189373?type=students) | Albany, NY | Summer 2027 |
 | 2026-11-18 🆕 | Mytra | [Software Engineer Intern](https://ats.rippling.com/mytra/jobs/5e479468-c622-4d2b-8789-89fbc14f3292) | Brisbane, CA |  |
@@ -111,7 +128,6 @@ _Updated 2026-11-19 (UTC). Only roles posted this month are listed; the full his
 | 2026-11-17 🆕 | HexArmor | [Software Engineer Intern](https://job-boards.greenhouse.io/hexarmor/jobs/8206200003) | Atlanta, GA |  |
 | 2026-11-17 🆕 | ECM Tek | [Developer Intern - Python Development](https://ecmtek.bamboohr.com/careers/51/) | Nashville, TN |  |
 | 2026-11-17 🆕 | IPConfigure | [Software Development for Video Surveillance Software Intern](https://ipconfigure.bamboohr.com/careers/71/) | Norfolk, VA |  |
-| 2026-11-17 🆕 | SurePoint Ag Systems | [Drone Imaging Agronomy Intern](https://surepoint.bamboohr.com/careers/109/) | Manhattan, KS | Summer 2027 |
 | 2026-11-17 🆕 | Sedaro | [Compiler Intern - Simulator](https://sedarotech.bamboohr.com/careers/95/) | Arlington County, Arlington, VA |  |
 | 2026-11-17 🆕 | Sedaro | [Software Engineer Intern](https://sedarotech.bamboohr.com/careers/97/) | Arlington County, Arlington, VA |  |
 | 2026-11-17 🆕 | FSP | [Placement Software Developer Intern](https://fsp.bamboohr.com/careers/323/) | Glasgow, UK; Reading, UK |  |
@@ -127,26 +143,26 @@ _Updated 2026-11-19 (UTC). Only roles posted this month are listed; the full his
 | 2026-11-17 🆕 | GEI Consultants | [Web Developer Intern](https://jobs.jobvite.com/gei-consultants/job/ogR5zfwv?nl=1&nl=1&fr=false) | Rancho Cordova, CA |  |
 | 2026-11-17 🆕 | Constellation Energy | [IT Software Developer Intern](https://jobs.constellationenergy.com/jobs/143150?icims=1&lang=en-us) | San Diego, CA | Summer 2027 |
 | 2026-11-17 🆕 | Blount Fine Foods | [Manufacturing Operations Analytics Intern](https://jobs.jobvite.com/blountfinefoods/job/oBf3Afwd?nl=1&nl=1&fr=false) | Fall River, MA |  |
-| 2026-11-16 🆕 | Boston Scientific | [AI Engineer Intern - Generative & Agentic AI](https://bostonscientific.eightfold.ai/careers/job/563602813827837) | Marlborough, MA; Maple Grove, MN; Arden Hills, MN | Summer 2027 |
-| 2026-11-16 🆕 | bioMérieux | [Machine Learning Co-op](https://jobs.jobvite.com/biofiredx/job/ol94AfwS?nl=1&nl=1&fr=false) | Durham, NC | Winter 2027 |
-| 2026-11-16 🆕 | NeuroSpark | [AI Inference & Training Framework Engineer Intern](https://ats.rippling.com/neurospark/jobs/349c061d-1b7b-4876-acf0-57f53c7263ea) | Santa Clara, CA |  |
-| 2026-11-16 🆕 | Pfizer | [Integrated Insights & Strategy Undergraduate Intern](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-Kingdom---Walton-Oaks/Integrated-Insights---Strategy-Undergraduate_4967524) | Tadworth, UK | Fall 2027 |
-| 2026-11-16 🆕 | Instil Software Ltd | [Software Engineer Placement Intern](https://jobs.ashbyhq.com/instil/b1be07e8-60de-432c-82ff-6ffb220ce563/application?embed=true) | Belfast, UK | Summer 2027 |
-| 2026-11-16 🆕 | Qualcomm | [GPU Compiler Intern](https://qualcomm.eightfold.ai/careers/job/446722152489) | Cambridge, UK |  |
-| 2026-11-16 🆕 | Quest Analytics | [Software Engineer Intern - C# - ASP.NET](https://jobs.lever.co/questanalytics/8e5758b7-6945-4c22-9f89-3d029ca9716f/apply) | Overland Park, KS | Summer 2027 |
-| 2026-11-16 🆕 | Meta | [Research Scientist Intern - Intelligent Camera Systems](https://www.metacareers.com/jobs/971210335715482) | Redmond, WA |  |
-| 2026-11-16 🆕 | BGE | [GIS Intern](https://job-boards.greenhouse.io/bgeinc/jobs/5483694008) | Katy, TX |  |
-| 2026-11-16 🆕 | Keyrock | [Innovation Quant Developer Intern - DeFi/Corporate Development](https://jobs.ashbyhq.com/keyrock/99a38fdd-4250-42b9-a92b-5c0f48d563fd/application?embed=true) | London, UK; Brussels, Belgium |  |
-| 2026-11-16 🆕 | SRI International | [Software Engineering/Full Stack Development Co-op](https://careers-sri.icims.com/jobs/6541/job?mobile=true&needsRedirect=false) | Princeton, NJ |  |
-| 2026-11-16 🆕 | BGE | [GIS Intern](https://job-boards.greenhouse.io/bgeinccampus/jobs/5483695008) | Katy, TX |  |
-| 2026-11-16 🆕 | Reliable Robotics | [Displays Software Engineer Intern](https://jobs.ashbyhq.com/reliable-robotics/6112c488-7072-4ce3-8c0f-645faa0e7cf9/application?embed=true) | Mountain View, CA | Summer 2027 |
-| 2026-11-16 🆕 | Toyota Research Institute | [Robotics Intern - World Models - Multimodal Sensing](https://jobs.lever.co/tri/c6569529-4b6b-4229-b2c9-f97467c26cd3/apply) | Cambridge, MA |  |
-| 2026-11-16 🆕 | Atalanta | [Forward Deployed Engineer Intern](https://jobs.ashbyhq.com/atalanta/f7625af9-5408-44bd-a707-7f4519ca41d8/application?embed=true) | Washington, DC |  |
-| 2026-11-16 🆕 | ServiceNow | [Associate Forward Deployed Solution Engineer Intern](https://jobs.smartrecruiters.com/ServiceNow/744000161936128) | Santa Clara, CA; NYC | Summer 2027 |
-| 2026-11-16 🆕 | Bound | [Engineering Intern](https://ats.rippling.com/bound/jobs/f489575d-5484-4c43-9b6d-a9dce9b29bcd) | Ames, IA | Summer 2027 |
-| 2026-11-16 🆕 | Minitab | [Software Engineer Intern](https://job-boards.greenhouse.io/minitab/jobs/8200708003) | State College, PA |  |
-| 2026-11-16 🆕 | Forterra | [Software Engineer Intern](https://ats.rippling.com/forterra/jobs/988bc637-2b57-4e15-b594-b2bb4b545395) | Winter Park, FL; Durham, NC; East Palo Alto, CA; Clarksburg, |  |
-| 2026-11-16 🆕 | Noblis | [Environmental Analyst Intern](https://careers.noblis.org/jobs/28139?icims=1&lang=en-us) | United States | Spring 2027 |
+| 2026-11-16 | Boston Scientific | [AI Engineer Intern - Generative & Agentic AI](https://bostonscientific.eightfold.ai/careers/job/563602813827837) | Marlborough, MA; Maple Grove, MN; Arden Hills, MN | Summer 2027 |
+| 2026-11-16 | bioMérieux | [Machine Learning Co-op](https://jobs.jobvite.com/biofiredx/job/ol94AfwS?nl=1&nl=1&fr=false) | Durham, NC | Winter 2027 |
+| 2026-11-16 | NeuroSpark | [AI Inference & Training Framework Engineer Intern](https://ats.rippling.com/neurospark/jobs/349c061d-1b7b-4876-acf0-57f53c7263ea) | Santa Clara, CA |  |
+| 2026-11-16 | Pfizer | [Integrated Insights & Strategy Undergraduate Intern](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-Kingdom---Walton-Oaks/Integrated-Insights---Strategy-Undergraduate_4967524) | Tadworth, UK | Fall 2027 |
+| 2026-11-16 | Instil Software Ltd | [Software Engineer Placement Intern](https://jobs.ashbyhq.com/instil/b1be07e8-60de-432c-82ff-6ffb220ce563/application?embed=true) | Belfast, UK | Summer 2027 |
+| 2026-11-16 | Qualcomm | [GPU Compiler Intern](https://qualcomm.eightfold.ai/careers/job/446722152489) | Cambridge, UK |  |
+| 2026-11-16 | Quest Analytics | [Software Engineer Intern - C# - ASP.NET](https://jobs.lever.co/questanalytics/8e5758b7-6945-4c22-9f89-3d029ca9716f/apply) | Overland Park, KS | Summer 2027 |
+| 2026-11-16 | Meta | [Research Scientist Intern - Intelligent Camera Systems](https://www.metacareers.com/jobs/971210335715482) | Redmond, WA |  |
+| 2026-11-16 | BGE | [GIS Intern](https://job-boards.greenhouse.io/bgeinc/jobs/5483694008) | Katy, TX |  |
+| 2026-11-16 | Keyrock | [Innovation Quant Developer Intern - DeFi/Corporate Development](https://jobs.ashbyhq.com/keyrock/99a38fdd-4250-42b9-a92b-5c0f48d563fd/application?embed=true) | London, UK; Brussels, Belgium |  |
+| 2026-11-16 | SRI International | [Software Engineering/Full Stack Development Co-op](https://careers-sri.icims.com/jobs/6541/job?mobile=true&needsRedirect=false) | Princeton, NJ |  |
+| 2026-11-16 | BGE | [GIS Intern](https://job-boards.greenhouse.io/bgeinccampus/jobs/5483695008) | Katy, TX |  |
+| 2026-11-16 | Reliable Robotics | [Displays Software Engineer Intern](https://jobs.ashbyhq.com/reliable-robotics/6112c488-7072-4ce3-8c0f-645faa0e7cf9/application?embed=true) | Mountain View, CA | Summer 2027 |
+| 2026-11-16 | Toyota Research Institute | [Robotics Intern - World Models - Multimodal Sensing](https://jobs.lever.co/tri/c6569529-4b6b-4229-b2c9-f97467c26cd3/apply) | Cambridge, MA |  |
+| 2026-11-16 | Atalanta | [Forward Deployed Engineer Intern](https://jobs.ashbyhq.com/atalanta/f7625af9-5408-44bd-a707-7f4519ca41d8/application?embed=true) | Washington, DC |  |
+| 2026-11-16 | ServiceNow | [Associate Forward Deployed Solution Engineer Intern](https://jobs.smartrecruiters.com/ServiceNow/744000161936128) | Santa Clara, CA; NYC | Summer 2027 |
+| 2026-11-16 | Bound | [Engineering Intern](https://ats.rippling.com/bound/jobs/f489575d-5484-4c43-9b6d-a9dce9b29bcd) | Ames, IA | Summer 2027 |
+| 2026-11-16 | Minitab | [Software Engineer Intern](https://job-boards.greenhouse.io/minitab/jobs/8200708003) | State College, PA |  |
+| 2026-11-16 | Forterra | [Software Engineer Intern](https://ats.rippling.com/forterra/jobs/988bc637-2b57-4e15-b594-b2bb4b545395) | Winter Park, FL; Durham, NC; East Palo Alto, CA; Clarksburg, |  |
+| 2026-11-16 | Noblis | [Environmental Analyst Intern](https://careers.noblis.org/jobs/28139?icims=1&lang=en-us) | United States | Spring 2027 |
 | 2026-11-13 | TikTok | [Machine Learning Engineer Intern](https://lifeattiktok.com/search/7698822572474583301) | San Jose, CA | Summer 2027 |
 | 2026-11-13 | Verisk | [Data Science/AI Intern](https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5184) | Lehi, UT | Summer 2027 |
 | 2026-11-13 | FieldPulse | [AI Intern](https://ats.rippling.com/fieldpulse/jobs/bfade8ef-2509-4042-b400-019fe3a84a7d) | Dallas, TX |  |
@@ -212,7 +228,6 @@ _Updated 2026-11-19 (UTC). Only roles posted this month are listed; the full his
 | 2026-11-11 | Marsh & McLennan | [Data & Analytics Retail Solutions Research Fellow](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Newcastle---Bank/Oliver-Wyman---Data---Analytics-Retail-Solutions-Research-Fellowship---Newcastle-upon-Tyne_R_372486-1) | Newcastle upon Tyne, UK |  |
 | 2026-11-11 | NBCUniversal | [Software Engineer Intern](https://jobs.smartrecruiters.com/NBCUniversal3/744000161179529) | Universal City, LA | Summer 2027 |
 | 2026-11-11 | Rockwell Automation | [Software Developer/Engineering Intern](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mequon-Wisconsin-United-States/Intern--Software-Developer-Engineering_R26-8666-1) | Mequon, WI |  |
-| 2026-11-11 | Woolpert | [Aviation Modeling & Simulation Intern](https://job-boards.greenhouse.io/woolpert/jobs/4430700009) | San Rafael, CA; Berkeley, CA | Summer 2027 |
 | 2026-11-11 | TRC Companies | [GIS Intern](https://careers.trccompanies.com/jobs/28698?icims=1&lang=en-us) | Seattle, WA; Houston, TX; Lakewood, CO; Raleigh, NC; Chicago | Summer 2027 |
 | 2026-11-11 | Formlabs | [Manufacturing Test Software Intern - Manufacturing](https://careers.formlabs.com/job/8374598/apply/?gh_jid=8374598) | Somerville, MA | Summer 2027 |
 | 2026-11-11 | State of Wisconsin Investment Board | [Data Analytics Engineering Intern](https://swib.wd12.myworkdayjobs.com/en-US/ext/job/Madison-Wisconsin/Data-Analytics-Engineering-Intern_R-001330) | Madison, WI | Summer 2027 |
@@ -404,7 +419,6 @@ _Updated 2026-11-19 (UTC). Only roles posted this month are listed; the full his
 | 2026-11-02 | Flagship Pioneering | [Machine Learning Intern](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8782467002) | Cambridge, MA |  |
 | 2026-11-02 | LabCorp | [Agentic AI Developer Co-op](https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Co-op---Agentic-AI-Developer_2639201-1) | Durham, NC; Burlington, NC | Spring 2027 |
 | 2026-11-02 | Paccar | [AI-Driven Vehicle Definition Intern](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-AI-Driven-Vehicle-Definition-TX-76205-7864/1453573733/?ats=successfactors) | Denton, TX | Summer 2027 |
-| 2026-11-02 | Intuitive Surgical | [AI/ML Engineer Intern](https://jobs.smartrecruiters.com/Intuitive/744000159218439) | Sunnyvale, CA | Summer 2027 |
 | 2026-11-02 | Toshiba Global Commerce Solutions | [AI Data Science & Business Analytics Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5276963007) | Durham, NC | Spring 2027 |
 | 2026-11-02 | Samsung | [AI Application Engineer Intern](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8163994003) | San Jose, CA |  |
 | 2026-11-02 | Wellmark | [Software Engineer Intern - AI Platform Team](https://jobs.smartrecruiters.com/WellmarkInc/744000159260670) | Des Moines, IA | Summer 2027 |
@@ -413,7 +427,6 @@ _Updated 2026-11-19 (UTC). Only roles posted this month are listed; the full his
 | 2026-11-02 | AXA | [Operations Metrics and Reporting Intern](https://careers.axa.com/jobs/25497?icims=1) | Scottsdale, AZ | Summer 2027 |
 | 2026-11-02 | KION Group | [Real-Time Software Engineer Intern](https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Stockport-United-Kingdom/Campus-visit-Dematic---Placement-student_JR-0082859) | Westhill, UK; Stockport, UK |  |
 | 2026-11-02 | Qube Research & Technologies | [Business Data Analytics Intern](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8926633002) | London, UK | Summer 2027 |
-| 2026-11-02 | Sierra Nevada Corporation | [Data Science Intern - Summer 2027](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Data-Science-Intern--Summer-2027-_R0031257) | Sparks, NV | Summer 2027 |
 | 2026-11-02 | KLA Corporation | [Software Engineer Intern](https://kla.wd1.myworkdayjobs.com/search/job/Austin-TX/Software-Engineering-Intern_2642004-1) | Austin, TX | Summer 2027 |
 | 2026-11-02 | LabCorp | [Full-Stack Life Sciences Software Engineer Co-op](https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Co-op---Full-Stack-Life-Sciences-Engineer_2639083) | Durham, NC; Burlington, NC | Spring 2027, Summer 2027 |
 | 2026-11-02 | Aries Global | [Data Intern](https://jobs.ashbyhq.com/ariesglobal/669ab0e1-cbbf-49e4-9136-accbff724f54/application?embed=true) | London, UK |  |
