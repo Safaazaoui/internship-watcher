@@ -12,7 +12,6 @@ _Updated 2026-11-26 (UTC). Only roles posted this month are listed; the full his
 | 2026-11-21 | Convverge | [Junior Developer Co-op](https://convverge.bamboohr.com/careers/31/) | Calgary, AB, Canada |  |
 | 2026-11-20 | Mackenzie Investments | [AI Program Intern](https://careersen-mackenzieinvestments.icims.com/jobs/6446/job?mobile=true&needsRedirect=false) | Toronto, ON, Canada | Winter 2027 |
 | 2026-11-20 | MDA Space | [Engineering Student Co-op - AI/ML Specialist](https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/664818ff-3594-4bec-9f30-3394e59e19f3/OpportunityDetail?opportunityId=b5aef546-676b-4f7a-8c20-acfa8f25069f) | Richmond, BC, Canada | Winter 2027 |
-| 2026-11-20 | Mawer Investment Management | [AI Orchestrator Student Intern](https://recruiting.ultipro.ca/MAW5000MAIM/JobBoard/3f78f9b9-d39a-d361-1db7-d1d2ab5df39b/OpportunityDetail?opportunityId=b4553d3e-9bfd-4102-b608-00c266607fd0) | Calgary, AB, Canada | Winter 2027 |
 | 2026-11-20 | Method | [Engineering Resident Intern](https://job-boards.greenhouse.io/method/jobs/8208724003) | Remote in USA; Santa Clara, CA; Charlotte, NC; NYC; Remote i |  |
 | 2026-11-20 | Honeywell Aerospace | [Artificial Intelligence Engineer Intern](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/127878) | Kanata, Ottawa, ON, Canada |  |
 | 2026-11-20 | Flare | [Software Developer Intern](https://flare.bamboohr.com/careers/29/) | Montreal, QC, Canada | Winter 2027 |
@@ -27,6 +26,7 @@ _Updated 2026-11-26 (UTC). Only roles posted this month are listed; the full his
 | 2026-11-18 | SSI | [Software Developer Co-op](https://ssicorporate.bamboohr.com/careers/101/) | Victoria, BC, Canada |  |
 | 2026-11-18 | Huawei | [Researcher Intern - Recursive Self-Improvement](https://huaweicanada.recruitee.com/o/intern-researcher-recursive-self-improvement-rsi) | Montreal, QC, Canada |  |
 | 2026-11-18 | Roblox | [Software Engineer Intern - Engine](https://careers.roblox.com/jobs/8386080?gh_jid=8386080) | Vancouver, BC, Canada | Summer 2027 |
+| 2026-11-17 | Angel Host | [AI Product Engineer Intern Co-op](https://angelhost.bamboohr.com/careers/123/) | Montreal, QC, Canada | Winter 2026, Winter 2027 |
 | 2026-11-17 | Birdseye Security Solutions | [AI Systems Intern](https://birdseyeaccount.bamboohr.com/careers/287/) | Mississauga, ON, Canada |  |
 | 2026-11-17 | Birdseye Security Solutions | [Computer Vision Intern](https://birdseyeaccount.bamboohr.com/careers/289/) | Mississauga, ON, Canada |  |
 | 2026-11-17 | Birdseye Security Solutions | [Software Developer Intern](https://birdseyeaccount.bamboohr.com/careers/286/) | Mississauga, ON, Canada |  |
@@ -99,6 +99,7 @@ _Updated 2026-11-26 (UTC). Only roles posted this month are listed; the full his
 
 | Posted | Company | Role | Location | Term |
 |---|---|---|---|---|
+| 2026-11-26 🆕 | Verisk | [Integration Analyst Intern](https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4213) | London, UK | Summer 2027 |
 | 2026-11-25 🆕 | Noblis | [AI/ML Research Intern](https://careers.noblis.org/jobs/28841?icims=1&lang=en-us) | United States | Spring 2027 |
 | 2026-11-25 🆕 | Harvard Companies | [AI Engineer Intern](https://hmi-harvard.icims.com/jobs/41029/job?mobile=true&needsRedirect=false) | Miami, FL |  |
 | 2026-11-25 🆕 | Harvard Companies | [AI Engineering Intern](https://corporate-harvard.icims.com/jobs/41029/job?mobile=true&needsRedirect=false) | Miami, FL |  |
@@ -133,6 +134,7 @@ _Updated 2026-11-26 (UTC). Only roles posted this month are listed; the full his
 | 2026-11-24 🆕 | Kimley-Horn | [Data Science Intern](https://careers.kimley-horn.com/jobs/29737?icims=1&lang=en-us) | Mesa, AZ | Summer 2027 |
 | 2026-11-24 🆕 | QinetiQ | [Software Engineer Intern](https://careers-qinetiqus.icims.com/jobs/12880/job?mobile=true&needsRedirect=false) | Fort Belvoir, VA |  |
 | 2026-11-24 🆕 | SambaNova Systems | [Runtime Engineer Intern](https://sambanova.ai/sambanova-available-positions/?gh_jid=6270727004) | Austin, TX; San Jose, CA | Summer 2027 |
+| 2026-11-24 🆕 | Blizzard Entertainment | [Tech Art Intern](https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Tech-Art_R028383) | Irvine, CA | Summer 2027 |
 | 2026-11-23 🆕 | CornerStone Partners | [AI and Automation Intern](https://csptest2025.applytojob.com/apply/zkjZABQZka/AI-And-Automation-Intern-Summer-2027) | Charlottesville, VA | Summer 2027 |
 | 2026-11-23 🆕 | Exowatt | [Software & AI Intern](https://jobs.lever.co/exowatt/86589116-72a5-44f1-893a-1c688d15f2cf/apply) | Austin, TX | Spring 2027 |
 | 2026-11-23 🆕 | Red Bull | [Data Science Intern](https://jobs.smartrecruiters.com/RedBull/744000163139699) | Morristown, NJ | Spring 2027 |
@@ -251,7 +253,6 @@ _Updated 2026-11-26 (UTC). Only roles posted this month are listed; the full his
 | 2026-11-19 | Space Dynamics Laboratory | [Software Engineering Assistant Intern](https://spacedynamicslaboratory.applytojob.com/apply/qi2jNoCwKX/Student-Software-Engineering-Assistant) | Logan, UT |  |
 | 2026-11-19 | Ralliant | [Software Engineer Intern](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11153) | Beaverton, OR | Summer 2027 |
 | 2026-11-19 | Publicis Groupe | [Identity Analytics Intern](https://careers.publicisgroupe.com/jobs/182970?icims=1&lang=en-us) | Chicago, IL | Summer 2027 |
-| 2026-11-19 | Blue Cross Blue Shield of Michigan | [Object Oriented Programming Intern](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15160) | Detroit, MI | Summer 2027 |
 | 2026-11-19 | Deliveroo | [Software Engineer Intern](https://job-boards.greenhouse.io/deliveroo/jobs/8398982) | London, UK | Summer 2027 |
 | 2026-11-19 | Publicis Groupe | [Identity Analytics Intern](https://publicisgroupe.jibeapply.com/jobs/182970?icims=1&lang=en-us) | Chicago, IL | Summer 2027 |
 | 2026-11-19 | Pivotal Software | [Autonomy Intern - Autonomy - Path Planning](https://jobs.lever.co/pivotal/092eb283-16ac-4f68-a6e9-b6a0a9564067/apply) | Palo Alto, CA | Summer 2027 |
@@ -575,5 +576,4 @@ _Updated 2026-11-26 (UTC). Only roles posted this month are listed; the full his
 | 2026-11-02 | Signet Jewelers | [Data Analytics Intern](https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Data-Analytics-Intern_REQ_84318-1) | Akron, OH | Summer 2027 |
 | 2026-11-02 | Noblis | [Data Science and Innovation Intern](https://careers.noblis.org/jobs/28097?icims=1&lang=en-us) | Springfield, VA; Reston, VA | Summer 2027 |
 | 2026-11-02 | Selective Insurance | [IT Information Management Intern](https://jobs.selective.com/jobs/5689?icims=1&lang=en-us) | Charlotte, NC | Summer 2027 |
-| 2026-11-02 | JSX | [Commercial Intern](https://jsx.wd503.myworkdayjobs.com/JSX_Careers/job/Dallas-Headquarters/Commercial-Intern_R-100729) | Dallas, TX | Summer 2027 |
 | 2026-11-01 | TRG | [Full Stack Application Developer Intern](https://secure7.saashr.com/ta/6203759.careers?ShowJob=638057422&lang=en-US) | Dallas, TX |  |
