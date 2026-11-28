@@ -1,8 +1,8 @@
-# Open internships posted in November 2026 (689)
+# Open internships posted in November 2026 (685)
 
 _Updated 2026-11-28 (UTC). Only roles posted this month are listed; the full history is in jobs_log.csv. US roles needing US citizenship, clearance or "no sponsorship" are filtered out. Each section is sorted newest first; 🆕 = posted in the last 3 days._
 
-## 🇨🇦 Canada (68)
+## 🇨🇦 Canada (67)
 
 | Posted | Company | Role | Location | Term |
 |---|---|---|---|---|
@@ -52,7 +52,6 @@ _Updated 2026-11-28 (UTC). Only roles posted this month are listed; the full his
 | 2026-11-16 | Shopify | [Software Engineer Intern](https://www.shopify.com/careers/can-software-engineering-internships-summer-2027_7ebb28da-0f4a-40ae-b41f-f5de60f3ca2a) | Montreal, QC, Canada; Toronto, ON, Canada; Ottawa, ON, Canad | Summer 2027 |
 | 2026-11-16 | Shopify | [Data Intern](https://www.shopify.com/careers/data-internships-summer-2027_33763bbb-341b-4d78-be50-4076570e5e95) | Montreal, QC, Canada; Toronto, ON, Canada; NYC; Ottawa, ON,  | Summer 2027 |
 | 2026-11-15 | IPEX | [Manufacturing Excellence Co-op](https://aliaxis.wd3.myworkdayjobs.com/IPEX/job/CA---Oakville-3---Office/Manufacturing-Excellence-Co-Op-Student--Winter-2027---Etudiant-Coop-excellence-manufacturire--Hiver-2027_R-58664-1) | Oakville, ON, Canada | Winter 2027 |
-| 2026-11-13 | Canadian Tire | [Programmer Analyst Intern](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Mississauga-ON/Programmer-Analyst-Intern--12-months----Winter-2027_JR167748) | Mississauga, ON, Canada | Winter 2027 |
 | 2026-11-13 | W.W. Grainger | [Customer Experience Intern](https://jobs.grainger.com/Canada/job/THORNHILL-GCAN-Customer-Experience-Intern-ON-L3T-7W8/1450621700/?ats=successfactors) | Thornhill, Vaughan, ON, Canada | Summer 2027 |
 | 2026-11-13 | W.W. Grainger | [GCAN Field Operations Analyst Intern](https://jobs.grainger.com/Canada/job/THORNHILL-GCAN-Field-Operations-Analyst-Intern-ON-L3T-7W8/1450732300/?ats=successfactors) | Thornhill, Vaughan, ON, Canada | Summer 2027 |
 | 2026-11-13 | Ciena | [Technical Solution Engineer Intern - SE&I](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Technical-Solution-Engineer--Intern---SE-I_R032114) | Montreal, QC, Canada; Ottawa, ON, Canada | Winter 2027 |
@@ -108,7 +107,7 @@ _Updated 2026-11-28 (UTC). Only roles posted this month are listed; the full his
 | 2026-11-04 | Vizient | [Pharmacy Aggregation Intern](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Pharmacy-Aggregation_35995R-1) | Washington, DC; Centennial, CO; Remote in USA; Edina, MN; Ch | Summer 2027 |
 | 2026-11-02 | Entrust | [AI Developer Intern](https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/AI-Developer-Intern_R004397) | Remote in Germany; Shakopee, MN |  |
 
-## 🇺🇸 US on-site (593)
+## 🇺🇸 US on-site (590)
 
 | Posted | Company | Role | Location | Term |
 |---|---|---|---|---|
@@ -214,7 +213,6 @@ _Updated 2026-11-28 (UTC). Only roles posted this month are listed; the full his
 | 2026-11-23 | Runna | [Full Stack Engineer Intern - Core App](https://jobs.ashbyhq.com/runna/3639d900-9433-4e57-b9f8-ad74340c4bad/application?embed=true) | London, UK |  |
 | 2026-11-23 | Runna | [Full Stack Engineer Intern - Growth](https://jobs.ashbyhq.com/runna/0ec22638-34d3-405f-b8d4-418bd9db21a1/application?embed=true) | London, UK |  |
 | 2026-11-23 | Illinois Tool Works | [Software or Computer Engineer Intern](https://careers.itw.com/global/en/job/JR11356) | Fairmont, MN | Summer 2027 |
-| 2026-11-23 | First PREMIER Bank | [Collections Analytics Intern](https://firstpremier.wd503.myworkdayjobs.com/PREMIER_Careers/job/Sioux-Falls-SD/PREMIER-Collections-Analytics-Internship_R-565) | Sioux Falls, SD |  |
 | 2026-11-23 | Illumio | [Security Platforms Engineer Intern - Security Platforms](https://jobs.ashbyhq.com/illumio/95bc7491-9b2f-493c-9297-e9cb36a63b45/application?embed=true) | Sunnyvale, CA | Summer 2027 |
 | 2026-11-23 | Federal Home Loan Bank of Dallas | [Digital Transformation Intern](https://fhlb.wd1.myworkdayjobs.com/FHLB_Careers/job/Irving-TX/XMLNAME-2027-Summer-Digital-Transformation-Intern_REQ-457) | Irving, TX | Summer 2027 |
 | 2026-11-23 | Roche | [Service Data and Analytics Intern](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Indianapolis/XMLNAME-2027-Summer-Intern---Service-Data-and-Analytics_202611-129686) | Indianapolis, IN | Summer 2027 |
@@ -464,7 +462,6 @@ _Updated 2026-11-28 (UTC). Only roles posted this month are listed; the full his
 | 2026-11-13 | Samsung | [Compiler Engineer Intern](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8202902003) | San Jose, CA |  |
 | 2026-11-13 | Valeo | [Software Engineer Intern](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Software-Engineer-Intern--Year-Round-_REQ2026081794) | Troy, MI |  |
 | 2026-11-13 | Cantor Fitzgerald | [Technology Summer Internship - Development](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250537) | London, UK | Summer 2027 |
-| 2026-11-13 | Piedmont Airlines | [Safety Data Analytics Intern](https://aaregional.wd503.myworkdayjobs.com/search/job/Charlotte-NC/Safety-Data-Analytics-Intern_R1014590) | Charlotte, NC |  |
 | 2026-11-13 | StepStone Group | [Junior Analyst Intern - Client Services](https://boards.greenhouse.io/embed/job_app?token=8386648) | Cleveland, OH |  |
 | 2026-11-13 | Horizon3.ai | [Research Intern - Adversarial Intelligence](https://jobs.ashbyhq.com/horizon3ai/818f854b-f212-4817-8227-3b9e654d39a2/application?embed=true) | Chicago, IL; West Lafayette, IN | Summer 2027 |
 | 2026-11-13 | TC Energy | [Intelligent Operations Technology Intern](https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Spokane-Washington/Intern--Intelligent-Operations-Technology_JR-10919) | Spokane, WA | Summer 2027 |
@@ -629,7 +626,6 @@ _Updated 2026-11-28 (UTC). Only roles posted this month are listed; the full his
 | 2026-11-05 | PA Consulting | [Digital Apprentice - Digital - Software Development](https://jobs.smartrecruiters.com/PAConsulting/744000159818139) | Manchester, UK | Fall 2027 |
 | 2026-11-05 | PA Consulting | [Data and Decision Intelligence Apprentice](https://jobs.smartrecruiters.com/PAConsulting/744000159816244) | London, UK | Fall 2027 |
 | 2026-11-05 | Hearst | [Software Engineer Intern](https://job-boards.greenhouse.io/hearst/jobs/4466334009) | Carmel, IN |  |
-| 2026-11-05 | The Federal Reserve System | [Knowledge and Information Management Intern](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship---Knowledge-and-Information-Management-Intern_R-0000033908) | Atlanta, GA | Summer 2027 |
 | 2026-11-05 | Vizient | [Product Operations Internship - Metrics & Reporting](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Product-Operations-Metrics---Reporting_36053R-1) | Irving, TX | Summer 2027 |
 | 2026-11-05 | DwyerOmega | [Software Engineer Intern](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4640548) | Westerville, OH | Summer 2027 |
 | 2026-11-05 | Red Wing Shoe Company | [Data and Analytics Intern](https://jobs.smartrecruiters.com/RedWingShoeCompany/744000159979648) | Red Wing, MN | Summer 2027 |
